@@ -30,7 +30,9 @@ Nick Suzuki's PENALTY KILL indices are: {2022: [681], 2023: [1467], 2024: [2224]
 ### Step 2: *Optional*
 Get the baseline stats for the player and game-state you want as the recommender's reference.
 Run the function: get_players_baseline_gamestate_stats.
+
 <img width="468" alt="image" src="https://github.com/ZachRosenthal04/Player_Recommender_NHL/assets/140099747/734dc59c-5ba6-44fa-af18-0d96a940e62e">
+
 The output of this function is the original gamestate dataframe with all the player's stats for that gamestate.
 The acceptable inputs for “original_gamestate_df” are: df_all_stats_AS, df_all_stats_ES, df_all_stats_PP, and df_all_stats_PK. 
 If the player_name is misspelled or there is no data, the function returns an empty data frame.
