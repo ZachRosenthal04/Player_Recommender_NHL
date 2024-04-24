@@ -38,6 +38,8 @@ If the player_name is misspelled or there is no data, the function returns an em
 Call the function: ```python recommend_skaters() ```
 The function looks like this:
 <img width="468" alt="image" src="https://github.com/ZachRosenthal04/Player_Recommender_NHL/assets/140099747/b5db79cf-9be4-41a5-8f26-be088dec73fc">
+
+
 The sample output for Nick Suzuki's 2022 stats for even strength game states is:
 <img width="468" alt="image" src="https://github.com/ZachRosenthal04/Player_Recommender_NHL/assets/140099747/f1844357-106b-44b3-a219-8af4f19c7220">
 ## Contributing:
