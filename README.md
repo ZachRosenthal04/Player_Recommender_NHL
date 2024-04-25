@@ -10,6 +10,16 @@ What problem are you trying to solve?
 There are two problems I’m trying to solve with this recommender engine. The first problem is player performance tracking. For young players, it is extremely difficult to know how a player’s development is progressing because of how difficult it is to compare and analyze metrics beyond simple scoring metrics while also taking into account positional metrics’ nuances and different game states. This recommender offers a means of tracking player progression, decline, or consistency based on referencing of similar players. Which leads me to the second problem I aim to solve – contract arbitration and navigating the NHL’s salary cap.
 Salary arbitration is when a third party is needed to determine a fair salary for a player when a player (and their agent) cannot come to an agreement with the team’s offer. Most players opt for arbitration but few end up progressing to an arbitration hearing. That being said, the process is often financially and mentally taxing on the player and team and can sour or destroy the relationship between the players and their team. An key factor in contract negotiations and arbitration hearings are player comparisons which are used in salary benchmarking. This is similar to how house prices are determined by comparisons. This recommender offers a nuanced, data-driven comparison, available to both players and teams which can help teams manage the cap, plan for the future, or avoid lengthy arbitration hearings that can ruin important relationships.
 ## Installation:
+The notebooks and recommender us the following libraries and packages:
+```
+import pandas as pd
+import numpy as np
+
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+from sklearn.metrics.pairwise import pairwise_distances
+```
 ## Usage:
 ### Season Notebooks:
 The notebooks: 2021-2022 Season, 2022-2023 Season, and 2023-2024 Season contain the original data CSVs as well as the EDA and cleaning process involved in each season. The data was downloaded from NatturalStatrick.com. It uses the regular season data individual, and on-ice, counts and rates  as well as the bio data for the game-states all strengths, even strength, power play, and penalty kill.
