@@ -1,0 +1,357 @@
+Player,Team,Current  Cap Hit,Current  Salary,Contract  Length,Current  Cap %,UFA Year,Contract Type,Expiry Status,Expiry Yr,Agent
+Jeff Carter,PIT,"$3,125,000","$3,000,000",2.0,3.7%,2012.0,Standard,UFA,2023-24,Richard Curran
+Zach Parise,COL,"$825,000","$825,000",1.0,1%,2012.0,Standard,UFA,2023-24,Wade Arnott
+Corey Perry,EDM,"$775,000","$775,000",1.0,0.9%,2012.0,Standard,UFA,2023-24,Patrick Morris
+Joe Pavelski,DAL,"$3,500,000","$3,500,000",1.0,4.2%,2012.0,Standard,UFA,2023-24,Daniel Plante
+Mark Giordano,TOR,"$800,000","$800,000",2.0,1%,2011.0,Standard,UFA,2023-24,Ritchie Winter
+Blake Wheeler,NYR,"$800,000","$800,000",1.0,1%,2014.0,Standard,UFA,2023-24,Matt Keator
+Alex Goligoski,MIN,"$2,000,000","$2,000,000",2.0,2.4%,2013.0,Standard,UFA,2023-24,Ben Hankinson
+Jack Johnson,COL,"$775,000","$775,000",1.0,0.9%,2014.0,Standard,UFA,2023-24,Pat Brisson
+Marc Staal,PHI,"$1,100,000","$1,100,000",1.0,1.3%,2014.0,Standard,UFA,2023-24,Richard Curran
+Andrew Cogliano,COL,"$825,000","$825,000",1.0,1%,2014.0,Standard,UFA,2023-24,Paul Capizzano
+Erik Johnson,PHI,"$3,250,000","$3,250,000",1.0,3.9%,2015.0,Standard,UFA,2023-24,Pat Brisson
+Kyle Okposo,FLA,"$2,500,000","$2,500,000",1.0,3%,2015.0,Standard,UFA,2023-24,Pat Brisson
+Trevor Lewis,L.A,"$775,000","$775,000",1.0,0.9%,2014.0,Standard,UFA,2023-24,Wade Arnott
+Milan Lucic,BOS,"$1,000,000","$1,000,000",1.0,1.2%,2014.0,Standard,UFA,2023-24,Gerry Johannson
+Cal Clutterbuck,NYI,"$1,750,000","$1,750,000",2.0,2.1%,2015.0,Standard,UFA,2023-24,Patrick Morris
+Ian Cole,VAN,"$3,000,000","$3,000,000",1.0,3.6%,2016.0,Standard,UFA,2023-24,Kevin Magnuson
+Kevin Shattenkirk,BOS,"$1,050,000","$1,050,000",1.0,1.3%,2016.0,Standard,UFA,2023-24,Jordan Neumann & George Bazos
+Pat Maroon,MIN,"$1,000,000","$1,000,000",2.0,1.2%,2015.0,Standard,UFA,2023-24,Ben Hankinson
+James van Riemsdyk,BOS,"$1,000,000","$1,000,000",1.0,1.2%,2016.0,Standard,UFA,2023-24,Judd Moldaver
+Sam Gagner,EDM,"$775,000","$775,000",1.0,0.9%,2014.0,Standard,UFA,2023-24,Judd Moldaver
+Brendan Smith,N.J,"$1,100,000","$1,200,000",2.0,1.3%,2016.0,Standard,UFA,2023-24,Matthew Oates
+David Perron,DET,"$4,750,000","$5,150,000",2.0,5.7%,2015.0,Standard,UFA,2023-24,Allan Walsh
+Patrick Kane,DET,"$2,750,000","$2,750,000",1.0,3.3%,2014.0,Standard,UFA,2023-24,Pat Brisson
+Robert Bortuzzo,STL,"$950,000","$950,000",2.0,1.1%,2016.0,Standard,UFA,2023-24,Robert Hooper
+Max Pacioretty,WSH,"$2,000,000","$2,000,000",1.0,2.4%,2016.0,Standard,UFA,2023-24,Allan Walsh
+Alec Martinez,VGK,"$5,250,000","$5,750,000",3.0,6.3%,2015.0,Standard,UFA,2023-24,Shawn Hunwick
+Steven Stamkos,T.B,"$8,500,000","$6,500,000",8.0,10.2%,2016.0,Standard,UFA,2023-24,Donald Meehan
+Tyler Myers,VAN,"$6,000,000","$6,000,000",5.0,7.2%,2017.0,Standard,UFA,2023-24,J.P. Barry
+Justin Schultz,SEA,"$3,000,000","$3,000,000",2.0,3.6%,2018.0,Standard,UFA,2023-24,Ray (Raynold) Petkau
+Marco Scandella,STL,"$3,275,000","$3,000,000",4.0,3.9%,2017.0,Standard,UFA,2023-24,Philippe Lecavalier
+Adam Henrique,EDM,"$5,825,000","$5,825,000",5.0,7%,2017.0,Standard,UFA,2023-24,John Thornton
+TJ Brodie,TOR,"$5,000,000","$7,500,000",4.0,6%,2017.0,Standard,UFA,2023-24,Paul Capizzano
+Matt Martin,NYI,"$1,500,000","$1,500,000",4.0,1.8%,2016.0,Standard,UFA,2023-24,Patrick Morris
+Tyler Johnson,CHI,"$5,000,000","$4,750,000",7.0,6%,2018.0,Standard,UFA,2023-24,J.P. Barry
+Mike Hoffman,S.J,"$4,500,000","$5,000,000",3.0,5.4%,2017.0,Standard,UFA,2023-24,Robert Hooper
+Jakob Silfverberg,ANA,"$5,250,000","$5,250,000",5.0,6.3%,2018.0,Standard,UFA,2023-24,Kevin Epp
+Matt Duchene,DAL,"$3,000,000","$3,000,000",1.0,3.6%,2016.0,Standard,UFA,2023-24,Pat Brisson
+Oliver Ekman-Larsson,FLA,"$2,250,000","$2,250,000",1.0,2.7%,2017.0,Standard,UFA,2023-24,Kevin Epp
+Calvin de Haan,T.B,"$775,000","$775,000",1.0,0.9%,2018.0,Standard,UFA,2023-24,Andy Scott
+Dmitry Kulikov,FLA,"$1,000,000","$1,000,000",1.0,1.2%,2017.0,Standard,UFA,2023-24,Craig Oster
+Tomas Tatar,SEA,"$1,500,000","$1,500,000",1.0,1.8%,2018.0,Standard,UFA,2023-24,Craig Oster
+Tyson Barrie,NSH,"$4,500,000","$5,000,000",3.0,5.4%,2019.0,Standard,UFA,2023-24,Pat Brisson
+Craig Smith,DAL,"$1,000,000","$1,000,000",1.0,1.2%,2017.0,Standard,UFA,2023-24,Kevin Magnuson
+Byron Froese,VGK,"$762,500","$775,000",2.0,0.9%,2018.0,Standard,UFA,2023-24,Todd Reynolds
+Brenden Dillon,WPG,"$3,900,000","$4,000,000",4.0,4.7%,2018.0,Standard,UFA,2023-24,Craig Oster
+Jason Zucker,NSH,"$5,300,000","$5,300,000",1.0,6.3%,2019.0,Standard,UFA,2023-24,Eustace King
+Tyler Toffoli,WPG,"$4,250,000","$3,500,000",4.0,5.1%,2019.0,Standard,UFA,2023-24,Pat Brisson
+Tyler Pitlick,NYR,"$787,500","$787,500",1.0,0.9%,2019.0,Standard,UFA,2023-24,Ben Hankinson
+Derek Forbort,BOS,"$3,000,000","$3,500,000",3.0,3.6%,2019.0,Standard,UFA,2023-24,Ben Hankinson
+Vladimir Tarasenko,OTT,"$5,000,000","$5,000,000",1.0,6%,2019.0,Standard,UFA,2023-24,Craig Oster
+Austin Watson,T.B,"$776,665","$776,665",1.0,0.9%,2019.0,Standard,UFA,2023-24,Murray Koontz
+Jarred Tinordi,CHI,"$1,250,000","$1,250,000",1.0,1.5%,2019.0,Standard,UFA,2023-24,Wade Arnott
+Sam Carrick,EDM,"$850,000","$850,000",2.0,1%,2019.0,Standard,UFA,2023-24,Todd Reynolds
+John Klingberg,TOR,"$4,150,000","$4,150,000",1.0,5%,2020.0,Standard,UFA,2023-24,Craig Oster
+Colin Blackwell,CHI,"$1,200,000","$1,200,000",2.0,1.4%,2020.0,Standard,UFA,2023-24,Peter Fish
+Max McCormick,SEA,"$762,500","$775,000",2.0,0.9%,2019.0,Standard,UFA,2023-24,Ritchie Winter
+Travis Boyd,ARI,"$1,750,000","$2,000,000",2.0,2.1%,2021.0,Standard,UFA,2023-24,Ben Hankinson
+Nick Cousins,FLA,"$1,100,000","$1,100,000",2.0,1.3%,2021.0,Standard,UFA,2023-24,Andy Scott
+Mike Reilly,NYI,"$1,000,000","$1,000,000",1.0,1.2%,2021.0,Standard,UFA,2023-24,Pat Brisson
+Joel Edmundson,WSH,"$3,500,000","$3,187,500",4.0,4.2%,2020.0,Standard,UFA,2023-24,Craig Oster
+Stefan Noesen,CAR,"$762,500","$775,000",2.0,0.9%,2020.0,Standard,UFA,2023-24,Wade Arnott
+Colin Miller,WPG,"$1,850,000","$1,700,000",2.0,2.2%,2020.0,Standard,UFA,2023-24,Wade Arnott
+Jonathan Marchessault,VGK,"$5,000,000","$3,500,000",6.0,6%,2018.0,Standard,UFA,2023-24,Pat Brisson
+Matt Dumba,T.B,"$3,900,000","$3,900,000",1.0,4.7%,2022.0,Standard,UFA,2023-24,Craig Oster
+Brendan Gaunce,CBJ,"$762,500","$775,000",2.0,0.9%,2021.0,Standard,UFA,2023-24,Paul Capizzano
+Brady Skjei,CAR,"$5,250,000","$5,400,000",6.0,6.3%,2021.0,Standard,UFA,2023-24,Wade Arnott
+Tanner Pearson,MTL,"$3,250,000","$4,250,000",3.0,3.9%,2020.0,Standard,UFA,2023-24,Joseph Resnick
+Zemgus Girgensons,BUF,"$2,500,000","$2,500,000",1.0,3%,2020.0,Standard,UFA,2023-24,Paul Capizzano
+Teuvo Teravainen,CAR,"$5,400,000","$5,875,000",5.0,6.5%,2022.0,Standard,UFA,2023-24,Markus Lehto
+Derrick Pouliot,DAL,"$775,000","$775,000",1.0,0.9%,2021.0,Standard,UFA,2023-24,Rick Valette
+Matt Grzelcyk,BOS,"$3,687,500","$4,250,000",4.0,4.4%,2021.0,Standard,UFA,2023-24,Peter Fish
+Chandler Stephenson,VGK,"$2,750,000","$3,225,000",4.0,3.3%,2021.0,Standard,UFA,2023-24,Jason Davidson
+Shayne Gostisbehere,DET,"$4,125,000","$4,125,000",1.0,4.9%,2020.0,Standard,UFA,2023-24,Marc Levine
+Devin Shore,SEA,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Todd Reynolds
+Jujhar Khaira,MIN,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Kurt Overhardt
+Chris Tierney,N.J,"$775,000","$775,000",1.0,0.9%,2021.0,Standard,UFA,2023-24,Joseph Resnick
+Jordan Martinook,CAR,"$1,800,000","$2,700,000",3.0,2.2%,2020.0,Standard,UFA,2023-24,Jeff Helperl
+Teddy Blueger,VAN,"$1,900,000","$1,900,000",1.0,2.3%,2022.0,Standard,UFA,2023-24,Ben Hankinson
+Erik Gustafsson,NYR,"$825,000","$825,000",1.0,1%,2019.0,Standard,UFA,2023-24,Craig Oster
+Vinnie Hinostroza,PIT,"$775,000","$775,000",1.0,0.9%,2021.0,Standard,UFA,2023-24,Pete Rutili
+Connor Brown,EDM,"$775,000","$775,000",1.0,0.9%,2021.0,Standard,UFA,2023-24,David Gagner
+Jaycob Megna,CHI,"$762,500","$775,000",2.0,0.9%,2020.0,Standard,UFA,2023-24,Daniel Plante
+Liam O'Brien,ARI,"$775,000","$800,000",2.0,0.9%,2022.0,Standard,UFA,2023-24,Andrew Maloney
+Kurtis MacDermid,N.J,"$987,500","$1,000,000",2.0,1.2%,2021.0,Standard,UFA,2023-24,Ian Pulver
+Chad Ruhwedel,PIT,"$800,000","$800,000",2.0,1%,2017.0,Standard,UFA,2023-24,Jordan Neumann & George Bazos
+Dominik Kubalik,OTT,"$2,500,000","$2,500,000",2.0,3%,2023.0,Standard,UFA,2023-24,Jiri Hamal
+Tyler Motte,T.B,"$800,000","$800,000",1.0,1%,2022.0,Standard,UFA,2023-24,Pat Brisson
+Josh Brown,ARI,"$1,275,000","$1,300,000",2.0,1.5%,2021.0,Standard,UFA,2023-24,Jason Harshaw
+John Hayden,SEA,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Pat Brisson
+Jake Guentzel,PIT,"$6,000,000","$6,000,000",5.0,7.2%,2022.0,Standard,UFA,2023-24,Ben Hankinson
+Mattias Janmark,EDM,"$1,000,000","$1,000,000",1.0,1.2%,2020.0,Standard,UFA,2023-24,Peter Wallen
+Anthony Duclair,T.B,"$3,000,000","$4,000,000",3.0,3.6%,2022.0,Standard,UFA,2023-24,Anthony Duclair
+Adam Erne,EDM,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Ritchie Winter
+Robert Hagg,ANA,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Craig Oster
+Nic Petan,MIN,"$762,500","$775,000",2.0,0.9%,2022.0,Standard,UFA,2023-24,Kevin Epp
+Justin Bailey,S.J,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Pat Brisson
+William Carrier,VGK,"$1,400,000","$1,750,000",4.0,1.7%,2022.0,Standard,UFA,2023-24,Philippe Lecavalier
+Tyler Bertuzzi,TOR,"$5,500,000","$5,500,000",1.0,6.6%,2022.0,Standard,UFA,2023-24,Todd Reynolds
+Zach Sanford,CHI,"$800,000","$800,000",1.0,1%,2022.0,Standard,UFA,2023-24,Jerry Buckley
+Brett Pesce,CAR,"$4,025,000","$4,025,000",6.0,4.8%,2022.0,Standard,UFA,2023-24,Jordan Neumann & George Bazos
+Jonathan Drouin,COL,"$825,000","$825,000",1.0,1%,2022.0,Standard,UFA,2023-24,Allan Walsh
+Elias Lindholm,VAN,"$4,850,000","$4,850,000",6.0,5.8%,2020.0,Standard,UFA,2023-24,Peter Wallen
+Sean Monahan,WPG,"$1,985,000","$1,985,000",1.0,2.4%,2020.0,Standard,UFA,2023-24,Patrick Morris
+Max Domi,TOR,"$3,000,000","$3,000,000",1.0,3.6%,2022.0,Standard,UFA,2023-24,Judd Moldaver
+Nikita Zadorov,VAN,"$3,750,000","$3,750,000",2.0,4.5%,2022.0,Standard,UFA,2023-24,Daniel Milstein
+Anthony Mantha,WSH,"$5,700,000","$6,500,000",4.0,6.8%,2022.0,Standard,UFA,2023-24,Pat Brisson
+Dakota Mermis,MIN,"$775,000","$775,000",1.0,0.9%,2021.0,Standard,UFA,2023-24,Kurt Overhardt
+Ryan Carpenter,S.J,"$775,000","$775,000",1.0,0.9%,2018.0,Standard,UFA,2023-24,Daniel Plante
+Jordan Oesterle,CGY,"$925,000","$925,000",1.0,1.1%,2019.0,Standard,UFA,2023-24,Matt Federico
+Pierre-Edouard Bellemare,SEA,"$775,000","$775,000",1.0,0.9%,2012.0,Standard,UFA,2023-24,Kevin Magnuson
+Tomas Nosek,N.J,"$1,000,000","$1,000,000",1.0,1.2%,2020.0,Standard,UFA,2023-24,J.P. Barry
+Sam Reinhart,FLA,"$6,500,000","$6,500,000",3.0,7.8%,2022.0,Standard,UFA,2023-24,Craig Oster
+Haydn Fleury,T.B,"$762,500","$775,000",2.0,0.9%,2024.0,Standard,UFA,2023-24,Gerry Johannson
+Jakub Vrana,STL,"$5,250,000","$5,750,000",3.0,6.3%,2023.0,Standard,UFA,2023-24,J.P. Barry
+Tony DeAngelo,CAR,"$1,675,000","$1,675,000",1.0,2%,2023.0,Standard,UFA,2023-24,Pat Brisson
+Kasperi Kapanen,STL,"$3,200,000","$3,200,000",2.0,3.8%,2024.0,Standard,UFA,2023-24,Markus Lehto
+Nicolas Aube-Kubel,WSH,"$1,225,000","$1,225,000",1.0,1.5%,2023.0,Standard,UFA,2023-24,Philippe Lecavalier
+Brandon Montour,FLA,"$3,500,000","$5,250,000",3.0,4.2%,2021.0,Standard,UFA,2023-24,Matt Keator
+Justin Kirkland,ARI,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Craig Oster
+Warren Foegele,EDM,"$2,750,000","$3,250,000",3.0,3.3%,2023.0,Standard,UFA,2023-24,Joseph Resnick
+Mark Friedman,VAN,"$775,000","$800,000",2.0,0.9%,2023.0,Standard,UFA,2023-24,Ian Pulver
+Michael Amadio,VGK,"$762,500","$775,000",2.0,0.9%,2023.0,Standard,UFA,2023-24,Joseph Resnick
+William Lagesson,TOR,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Allan Walsh
+Fredrik Olofsson,COL,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Claude Lemieux
+Viktor Arvidsson,L.A,"$4,250,000","$4,250,000",7.0,5.1%,2020.0,Standard,UFA,2023-24,Kurt Overhardt
+Sam Lafferty,VAN,"$1,150,000","$1,150,000",2.0,1.4%,2022.0,Standard,UFA,2023-24,Pete Rutili
+Danton Heinen,BOS,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Allain Roy
+Dakota Joshua,VAN,"$825,000","$850,000",2.0,1%,2023.0,Standard,UFA,2023-24,Richard Evans
+Oskar Lindblom,S.J,"$2,500,000","$2,500,000",2.0,3%,2024.0,Standard,UFA,2023-24,Kevin Epp
+Rourke Chartier,OTT,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Timothy Hodgson
+Kevin Labanc,S.J,"$4,725,000","$5,875,000",4.0,5.7%,2023.0,Standard,UFA,2023-24,Michael Curran
+Sammy Blais,STL,"$1,000,000","$1,000,000",1.0,1.2%,2023.0,Standard,UFA,2023-24,Philippe Lecavalier
+Victor Olofsson,BUF,"$4,750,000","$4,750,000",2.0,5.7%,2023.0,Standard,UFA,2023-24,Claude Lemieux
+Matthew Highmore,OTT,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Allan Walsh
+Colin White,PIT,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Philippe Lecavalier
+Travis Dermott,ARI,"$800,000","$800,000",1.0,1%,2024.0,Standard,UFA,2023-24,David Gagner
+Anthony Richard,BOS,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Philippe Lecavalier
+A.J. Greer,CGY,"$762,500","$775,000",2.0,0.9%,2024.0,Standard,UFA,2023-24,Philippe Lecavalier
+Jansen Harkins,PIT,"$850,000","$875,000",2.0,1%,2024.0,Standard,UFA,2023-24,Cameron Stewart
+Sebastian Aho,CAR,"$825,000","$850,000",2.0,1%,2023.0,Standard,UFA,2023-24,Claude Lemieux
+Sebastian Aho,NYI,"$825,000","$850,000",2.0,1%,2023.0,Standard,UFA,2023-24,Claude Lemieux
+Oliver Kylington,CGY,"$2,500,000","$2,500,000",2.0,3%,2024.0,Standard,UFA,2023-24,J.P. Barry
+Christian Fischer,DET,"$1,125,000","$1,125,000",1.0,1.3%,2024.0,Standard,UFA,2023-24,Craig Oster
+Glenn Gawdin,ANA,"$762,500","$775,000",2.0,0.9%,2024.0,Standard,UFA,2023-24,Dave Cowan
+Caleb Jones,COL,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Pat Brisson
+Jack Roslovic,NYR,"$4,000,000","$4,000,000",2.0,4.8%,2024.0,Standard,UFA,2023-24,Claude Lemieux
+Anthony Beauvillier,VAN,"$4,150,000","$4,150,000",3.0,5%,2023.0,Standard,UFA,2023-24,Philippe Lecavalier
+Daniel Sprong,DET,"$2,000,000","$2,000,000",1.0,2.4%,2024.0,Standard,UFA,2023-24,Pat Brisson
+Mitchell Stephens,MTL,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Ian Pulver
+Denis Gurianov,PHI,"$850,000","$850,000",1.0,1%,2024.0,Standard,UFA,2023-24,Mark Gandler & Todd Diamond
+Jake DeBrusk,BOS,"$4,000,000","$4,000,000",2.0,4.8%,2024.0,Standard,UFA,2023-24,Rick Valette
+Dennis Gilbert,CGY,"$762,500","$775,000",2.0,0.9%,2024.0,Standard,UFA,2023-24,Scott Bartlett
+Yakov Trenin,NSH,"$1,700,000","$1,700,000",2.0,2%,2024.0,Standard,UFA,2023-24,Shumi Babaev
+Austin Czarnik,DET,"$762,500","$775,000",2.0,0.9%,2020.0,Standard,UFA,2023-24,Brian Bartlett
+Kevin Stenlund,FLA,"$1,000,000","$1,000,000",1.0,1.2%,2024.0,Standard,UFA,2023-24,Jarrett Bousquet
+Alexandre Carrier,NSH,"$2,500,000","$2,500,000",1.0,3%,2024.0,Standard,UFA,2023-24,Philippe Lecavalier
+Ryan Shea,PIT,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Matt Keator
+Adam Gaudette,STL,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Matt Keator
+Brett Seney,CHI,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Pete Rutili
+Steven Lorentz,FLA,"$1,050,000","$1,150,000",2.0,1.3%,2023.0,Standard,UFA,2023-24,Robert Hooper
+Matt Roy,L.A,"$3,150,000","$4,200,000",3.0,3.8%,2022.0,Standard,UFA,2023-24,Richard Evans
+Samuel Laberge,N.J,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,No Agent
+Jalen Chatfield,CAR,"$762,500","$775,000",2.0,0.9%,2023.0,Standard,UFA,2023-24,Darren Ferris
+Philippe Myers,T.B,"$1,400,000","$1,400,000",1.0,1.7%,2024.0,Standard,UFA,2023-24,Allain Roy
+Ryan Lomberg,FLA,"$800,000","$825,000",2.0,1%,2022.0,Standard,UFA,2023-24,Brian Bartlett
+Andrew Poturalski,SEA,"$762,500","$775,000",2.0,0.9%,2021.0,Standard,UFA,2023-24,Brian Bartlett
+Joey Anderson,CHI,"$800,000","$800,000",1.0,1%,2025.0,Standard,RFA +arb,2023-24,Jay Grossman
+Luke Kunin,S.J,"$2,750,000","$3,000,000",2.0,3.3%,2025.0,Standard,RFA +arb,2023-24,Pete Rutili
+Lucas Johansen,WSH,"$762,500","$775,000",2.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Kurt Overhardt
+Lucas Johansen,WSH,"$762,500","$775,000",2.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Kurt Overhardt
+Ryan Lindgren,NYR,"$3,000,000","$4,000,000",3.0,3.6%,2025.0,Standard,RFA +arb,2023-24,Wade Arnott
+Carl Grundstrom,L.A,"$1,300,000","$1,300,000",2.0,1.6%,2025.0,Standard,RFA +arb,2023-24,J.P. Barry
+Dillon Dube,CGY,"$2,300,000","$2,400,000",3.0,2.8%,2026.0,Standard,RFA +arb,2023-24,Dave Cowan
+Kale Clague,BUF,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,RFA +arb,2023-24,Judd Moldaver
+Sam Steel,DAL,"$850,000","$850,000",1.0,1%,2025.0,Standard,RFA +arb,2023-24,Gerry Johannson
+Beck Malenstyn,WSH,"$762,500","$775,000",2.0,0.9%,2025.0,Standard,RFA +arb,2023-24,J.P. Barry
+Riley Tufte,COL,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Ben Hankinson
+Riley Tufte,COL,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Ben Hankinson
+Max Jones,ANA,"$1,295,000","$1,500,000",3.0,1.6%,2025.0,Standard,RFA +arb,2023-24,Pat Brisson
+Tyson Jost,BUF,"$2,000,000","$2,000,000",1.0,2.4%,2024.0,Standard,UFA,2023-24,J.P. Barry
+Josh Mahura,FLA,"$925,000","$925,000",1.0,1.1%,2025.0,Standard,RFA +arb,2023-24,Gregory Landry
+Victor Mete,PHI,"$775,000","$775,000",1.0,0.9%,2024.0,Standard,UFA,2023-24,Darren Ferris
+Logan Stanley,WPG,"$1,000,000","$1,000,000",1.0,1.2%,2025.0,Standard,RFA +arb,2023-24,Andy Scott
+Boris Katchouk,OTT,"$758,333","$775,000",3.0,0.9%,2025.0,Standard,RFA +arb,2023-24,Robert Hooper
+Taylor Raddysh,CHI,"$758,333","$775,000",3.0,0.9%,2025.0,Standard,RFA +arb,2023-24,David Gagner
+Noah Gregor,TOR,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Craig Oster
+Jake Bean,CBJ,"$2,333,333","$2,900,000",3.0,2.8%,2025.0,Standard,RFA +arb,2023-24,Judd Moldaver
+Michael McLeod,N.J,"$1,400,000","$1,400,000",1.0,1.7%,2025.0,Standard,RFA +arb,2023-24,Joseph Resnick
+Brett Murray,BUF,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,David Gagner
+Brett Murray,BUF,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,David Gagner
+Filip Hronek,VAN,"$4,400,000","$5,500,000",3.0,5.3%,2025.0,Standard,RFA +arb,2023-24,Allan Walsh
+Jacob MacDonald,S.J,"$762,500","$775,000",2.0,0.9%,2020.0,Standard,UFA,2023-24,Richard Evans
+Troy Stecher,EDM,"$1,100,000","$1,100,000",1.0,1.3%,2021.0,Standard,UFA,2023-24,Eustace King
+Nikita Zaitsev,CHI,"$4,500,000","$4,500,000",7.0,5.4%,2019.0,Standard,UFA,2023-24,Daniel Milstein
+Rem Pitlick,CHI,"$1,100,000","$1,100,000",2.0,1.3%,2024.0,Standard,UFA,2023-24,No Agent
+Brandon Duhaime,MIN,"$1,100,000","$1,100,000",1.0,1.3%,2024.0,Standard,UFA,2023-24,Richard Evans
+Hardy Haman Aktell,WSH,"$870,000","$870,000",1.0,1%,2026.0,Entry Level,RFA +arb,2023-24,Craig Oster
+Oskar Steen,BOS,"$800,000","$800,000",2.0,1%,2025.0,Standard,UFA-Group6,2023-24,Joakim Persson
+Oskar Steen,BOS,"$800,000","$800,000",2.0,1%,2025.0,Standard,UFA-Group6,2023-24,Joakim Persson
+Matthew Phillips,WSH,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Allain Roy
+Matthew Phillips,WSH,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Allain Roy
+Vincent Desharnais,EDM,"$762,500","$775,000",2.0,0.9%,2023.0,Standard,UFA,2023-24,Philippe Lecavalier
+Zach Aston-Reese,DET,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Daniel Milstein
+Mason Shaw,MIN,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Kevin Epp
+Juuso Valimaki,ARI,"$1,000,000","$1,000,000",1.0,1.2%,2026.0,Standard,RFA +arb,2023-24,Dave Cowan
+Kailer Yamamoto,SEA,"$1,500,000","$1,500,000",1.0,1.8%,2026.0,Standard,RFA +arb,2023-24,J.P. Barry
+Kole Lind,SEA,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Gerry Johannson
+Kole Lind,SEA,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Gerry Johannson
+Jaret Anderson-Dolan,L.A,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,J.P. Barry
+Casey Mittelstadt,COL,"$2,500,000","$2,600,000",3.0,3%,2026.0,Standard,RFA +arb,2023-24,Neil Sheehy
+Urho Vaakanainen,ANA,"$850,000","$900,000",2.0,1%,2026.0,Standard,RFA +arb,2023-24,Mika Rautakallio
+Jesper Boqvist,BOS,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Peter Wallen
+Adam Ruzicka,CGY,"$762,500","$750,000",2.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Craig Oster
+Eeli Tolvanen,SEA,"$1,450,000","$1,450,000",3.0,1.7%,2026.0,Standard,RFA +arb,2023-24,Michael Curran
+Jack Studnicka,VAN,"$762,500","$775,000",2.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Darren Ferris
+Shane Bowers,N.J,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Judd Moldaver
+Henri Jokiharju,BUF,"$2,500,000","$2,600,000",3.0,3%,2026.0,Standard,RFA +arb,2023-24,Markus Lehto
+Martin Necas,CAR,"$3,000,000","$3,500,000",2.0,3.6%,2026.0,Standard,RFA +arb,2023-24,Michael Deutsch
+Timothy Liljegren,TOR,"$1,400,000","$1,500,000",2.0,1.7%,2026.0,Standard,RFA +arb,2023-24,Peter Wallen
+Pierre-Olivier Joseph,PIT,"$825,000","$850,000",2.0,1%,2027.0,Standard,RFA +arb,2023-24,Olivier Fortier
+Ian Mitchell,BOS,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Gregory Landry
+Erik Brannstrom,OTT,"$2,000,000","$2,000,000",1.0,2.4%,2027.0,Standard,RFA +arb,2023-24,Craig Oster
+Alexandre Texier,CBJ,"$1,525,000","$1,750,000",2.0,1.8%,2027.0,Standard,RFA +arb,2023-24,Markus Lehto
+Cameron Crotty,ARI,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Murray Koontz
+Cameron Crotty,ARI,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Murray Koontz
+Nick DeSimone,N.J,"$762,500","$775,000",2.0,0.9%,2022.0,Standard,UFA,2023-24,Allan Walsh
+Calle Rosen,STL,"$762,500","$775,000",2.0,0.9%,2021.0,Standard,UFA,2023-24,Kurt Overhardt
+Jacob Bryson,BUF,"$1,850,000","$1,900,000",2.0,2.2%,2025.0,Standard,RFA +arb,2023-24,Allain Roy
+Emil Bemstrom,PIT,"$900,000","$900,000",2.0,1.1%,2026.0,Standard,RFA +arb,2023-24,Claude Lemieux
+Jacob Peterson,S.J,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Craig Oster
+Cole Guttman,CHI,"$950,000","$950,000",2.0,1.1%,2026.0,Entry Level,RFA +arb,2023-24,Pat Brisson
+Carson Meyer,CBJ,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Allain Roy
+Carson Meyer,CBJ,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Allain Roy
+Sean Walker,PHI,"$2,650,000","$3,350,000",4.0,3.2%,2022.0,Standard,UFA,2023-24,Cameron Stewart
+Sean Durzi,ARI,"$1,700,000","$2,000,000",2.0,2%,2026.0,Standard,RFA +arb,2023-24,Allan Walsh
+Parker Kelly,OTT,"$762,500","$775,000",2.0,0.9%,2026.0,Standard,RFA +arb,2023-24,Allain Roy
+James Hamblin,EDM,"$807,500","$820,000",2.0,1%,2026.0,Entry Level,RFA +arb,2023-24,Rick Valette
+Kiefer Sherwood,NSH,"$775,000","$775,000",1.0,0.9%,2022.0,Standard,UFA,2023-24,Allain Roy
+Eric Robinson,CBJ,"$1,600,000","$1,700,000",2.0,1.9%,2022.0,Standard,UFA,2023-24,Todd Reynolds
+Sheldon Rempal,VGK,"$762,500","$775,000",2.0,0.9%,2023.0,Standard,UFA,2023-24,Drew Shore
+Oliver Wahlstrom,NYI,"$874,125","$874,125",1.0,1%,2027.0,Standard,RFA +arb,2023-24,Pat Brisson
+Isac Lundestrom,ANA,"$1,800,000","$1,800,000",2.0,2.2%,2027.0,Standard,RFA +arb,2023-24,Peter Wallen
+Ty Emberson,S.J,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Daniel Plante
+Jack Drury,CAR,"$925,000","$925,000",3.0,1.1%,2027.0,Entry Level,RFA +arb,2023-24,No Agent
+Jonathan Gruden,PIT,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Cameron Stewart
+Ty Dellandrea,DAL,"$900,000","$900,000",1.0,1.1%,2028.0,Standard,RFA +arb,2023-24,Todd Reynolds
+Barrett Hayton,ARI,"$1,775,000","$2,130,000",2.0,2.1%,2027.0,Standard,RFA +arb,2023-24,Patrick Morris
+Akil Thomas,L.A,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Eustace King
+Liam Foudy,NSH,"$762,500","$775,000",2.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Thane Campbell
+Adam Ginning,PHI,"$883,750","$925,000",2.0,1.1%,2027.0,Entry Level,RFA +arb,2023-24,Patrik Aronsson
+Nils Lundkvist,DAL,"$925,000","$925,000",3.0,1.1%,2028.0,Entry Level,RFA +arb,2023-24,Claude Lemieux
+Calen Addison,S.J,"$825,000","$825,000",1.0,1%,2027.0,Standard,RFA +arb,2023-24,Craig Oster
+Jan Jenik,ARI,"$775,000","$775,000",1.0,0.9%,2028.0,Standard,RFA +arb,2023-24,Allan Walsh
+Michael Kesselring,ARI,"$925,000","$925,000",3.0,1.1%,2027.0,Entry Level,RFA +arb,2023-24,Matt Keator
+Kirill Marchenko,CBJ,"$925,000","$925,000",2.0,1.1%,2028.0,Entry Level,RFA +arb,2023-24,Daniel Milstein
+Ilya Lyubushkin,TOR,"$2,750,000","$2,750,000",2.0,3.3%,2021.0,Standard,UFA,2023-24,Craig Oster
+Connor Dewar,TOR,"$800,000","$850,000",2.0,1%,2026.0,Standard,RFA +arb,2023-24,Tobin Wright
+Declan Chisholm,WPG,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Richard Evans
+Jonatan Berggren,DET,"$925,000","$925,000",3.0,1.1%,2028.0,Entry Level,RFA +arb,2023-24,Scott Bartlett
+David Gustafsson,WPG,"$775,000","$775,000",2.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Craig Oster
+Linus Karlsson,VAN,"$883,750","$925,000",2.0,1.1%,2027.0,Entry Level,RFA +arb,2023-24,No Agent
+Cole Koepke,T.B,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Daniel Plante
+Cole Koepke,T.B,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Daniel Plante
+Spencer Stastney,NSH,"$925,000","$925,000",2.0,1.1%,2027.0,Entry Level,RFA +arb,2023-24,Pete Rutili
+Scott Perunovich,STL,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Ian Pulver
+Scott Perunovich,STL,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Ian Pulver
+Angus Crookshank,OTT,"$838,333","$855,000",3.0,1%,2027.0,Entry Level,RFA +arb,2023-24,Ross Gurney
+Hugh McGing,STL,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Richard Evans
+Hugh McGing,STL,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Richard Evans
+John Leonard,ARI,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Matt Keator
+John Leonard,ARI,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Matt Keator
+Reese Johnson,CHI,"$800,000","$850,000",2.0,1%,2026.0,Standard,RFA +arb,2023-24,Michael O'Rafferty
+Jake Christiansen,CBJ,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,No Agent
+Kyle MacLean,NYI,"$800,000","$800,000",1.0,1%,2026.0,Entry Level,RFA +arb,2023-24,No Agent
+Samuel Fagemo,NSH,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Craig Oster
+Joe Snively,WSH,"$800,000","$850,000",2.0,1%,2023.0,Standard,UFA,2023-24,Pete Rutili
+Blake Lizotte,L.A,"$1,675,000","$1,675,000",2.0,2%,2025.0,Standard,RFA +arb,2023-24,Daniel Plante
+Brett Leason,ANA,"$775,000","$800,000",2.0,0.9%,2026.0,Standard,RFA +arb,2023-24,J.P. Barry
+Peyton Krebs,BUF,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Kevin Epp
+Kaedan Korczak,VGK,"$789,167","$775,000",3.0,0.9%,2028.0,Entry Level,RFA,2023-24,Rick Valette
+Alex Turcotte,L.A,"$894,167","$832,500",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Pat Brisson
+Raphael Lavoie,EDM,"$874,125","$874,125",1.0,1%,2028.0,Standard,RFA +arb,2023-24,Philippe Lecavalier
+Moritz Seider,DET,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Claude Lemieux
+Nikita Alexandrov,STL,"$816,667","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Patrick Morris
+Adam Beckman,MIN,"$894,167","$832,500",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Michael Kaye
+Bobby Brink,PHI,"$925,000","$925,000",3.0,1.1%,2029.0,Entry Level,RFA +arb,2023-24,Ben Hankinson
+Kaapo Kakko,NYR,"$2,100,000","$2,400,000",2.0,2.5%,2026.0,Standard,RFA +arb,2023-24,Andy Scott
+Arthur Kaliyev,L.A,"$894,167","$832,500",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Ian Pulver
+Henry Thrun,S.J,"$912,500","$925,000",2.0,1.1%,2029.0,Entry Level,RFA,2023-24,Matt Keator
+Alex Vlasic,CHI,"$916,667","$925,000",3.0,1.1%,2028.0,Entry Level,RFA +arb,2023-24,Scott Bartlett
+Philip Tomasino,NSH,"$863,334","$832,500",3.0,1%,2029.0,Entry Level,RFA,2023-24,Wade Arnott
+Graeme Clarke,N.J,"$850,833","$867,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Randy Robitaille
+Connor McMichael,WSH,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,David Gagner
+Thomas Harley,DAL,"$863,334","$832,500",3.0,1%,2029.0,Entry Level,RFA,2023-24,Andy Scott
+Nicholas Robertson,TOR,"$796,667","$775,000",3.0,1%,2029.0,Entry Level,RFA,2023-24,Pat Brisson
+Egor Afanasyev,NSH,"$789,167","$775,000",3.0,0.9%,2028.0,Entry Level,RFA,2023-24,Daniel Milstein
+Jakob Pelletier,CGY,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Olivier Fortier
+Shane Pinto,OTT,"$775,000","$775,000",1.0,0.9%,2028.0,Standard,RFA +arb,2023-24,Lewis Gross
+Philip Broberg,EDM,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Darren Ferris
+Victor Soderstrom,ARI,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Darren Ferris
+Simon Holmstrom,NYI,"$863,334","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,J.P. Barry
+Pavel Dorofeyev,VGK,"$825,000","$825,000",1.0,1%,2028.0,Standard,RFA +arb,2023-24,Rick Komarow
+Jackson LaCombe,ANA,"$925,000","$925,000",2.0,1.1%,2028.0,Entry Level,RFA,2023-24,Pat Brisson
+Jordan Spence,L.A,"$820,000","$775,000",3.0,1%,2028.0,Entry Level,RFA,2023-24,Peter MacTavish
+Vladislav Kolyachonok,ARI,"$789,167","$775,000",3.0,0.9%,2028.0,Entry Level,RFA,2023-24,Daniel Milstein
+Vasily Podkolzin,VAN,"$925,000","$925,000",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Craig Oster
+Joel Kiviranta,COL,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Mika Rautakallio
+Cole Schwindt,CGY,"$855,833","$832,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Patrick Morris
+Maxence Guenette,OTT,"$813,333","$830,000",3.0,1%,2028.0,Entry Level,RFA,2023-24,Dom Deblois
+Tyler Angle,CBJ,"$850,833","$867,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Patrick Morris
+Santeri Hatakka,N.J,"$850,833","$867,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,J.P. Barry
+Valtteri Puustinen,PIT,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Markus Lehto
+Valtteri Puustinen,PIT,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Markus Lehto
+Juuso Parssinen,NSH,"$850,833","$867,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Jerry Buckley
+Marc Del Gaizo,NSH,"$850,833","$867,500",3.0,1%,2027.0,Entry Level,RFA +arb,2023-24,Michael Curran
+Louis Crevier,CHI,"$850,833","$867,500",3.0,1%,2028.0,Entry Level,RFA,2023-24,Paul Corbeil
+Brandon Biro,BUF,"$762,500","$775,000",2.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Allain Roy
+Brandon Biro,BUF,"$762,500","$775,000",2.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Allain Roy
+Mitchell Chaffee,T.B,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Donald Meehan
+Mitchell Chaffee,T.B,"$775,000","$775,000",1.0,0.9%,2025.0,Standard,UFA-Group6,2023-24,Donald Meehan
+Dylan Holloway,EDM,"$925,000","$925,000",3.0,1.1%,2029.0,Entry Level,RFA,2023-24,Blake Robson
+Lucas Raymond,DET,"$925,000","$925,000",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,J.P. Barry
+Seth Jarvis,CAR,"$894,167","$832,500",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Gerry Johannson
+Dawson Mercer,N.J,"$894,167","$832,500",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,No Agent
+Justin Barron,MTL,"$925,000","$925,000",3.0,1.1%,2029.0,Entry Level,RFA,2023-24,Wade Arnott
+Anton Lundell,FLA,"$925,000","$925,000",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Markus Lehto
+Quinton Byfield,L.A,"$894,167","$832,500",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,David Gagner
+Thomas Bordeleau,S.J,"$916,667","$925,000",3.0,1.1%,2029.0,Entry Level,RFA,2023-24,Pat Brisson
+Cole Perfetti,WPG,"$894,167","$832,500",3.0,1.1%,2029.0,Entry Level,RFA,2023-24,Cameron Stewart
+Yan Kuznetsov,CGY,"$870,000","$825,000",3.0,1%,2029.0,Entry Level,RFA,2023-24,Mark Gandler & Todd Diamond
+Adam Raska,MIN,"$848,333","$865,000",3.0,1%,2029.0,Entry Level,RFA,2023-24,Allan Walsh
+Gage Goncalves,T.B,"$820,000","$775,000",3.0,1%,2028.0,Entry Level,RFA,2023-24,Allain Roy
+Alexander Barabanov,S.J,"$2,500,000","$2,500,000",2.0,3%,2021.0,Standard,UFA,2023-24,Daniel Milstein
+Radim Zohorna,PIT,"$775,000","$775,000",1.0,0.9%,2023.0,Standard,UFA,2023-24,Craig Oster
+Ilya Solovyov,CGY,"$828,333","$845,000",3.0,1%,2028.0,Entry Level,RFA +arb,2023-24,Daniel Milstein
+Yegor Chinakhov,CBJ,"$800,000","$800,000",1.0,1%,2028.0,Standard,RFA +arb,2023-24,Shumi Babaev
+Alex Steeves,TOR,"$834,167","$852,500",3.0,1%,2027.0,Entry Level,RFA +arb,2023-24,Allain Roy
+Kent Johnson,CBJ,"$925,000","$925,000",3.0,1.1%,2029.0,Entry Level,RFA,2023-24,Pat Brisson
+Cole Sillinger,CBJ,"$925,000","$925,000",3.0,1.1%,2028.0,Entry Level,RFA,2023-24,Craig Oster
+Arber Xhekaj,MTL,"$828,333","$835,000",3.0,1%,2028.0,Entry Level,RFA,2023-24,Viktor Saljanin
+Marc McLaughlin,BOS,"$775,000","$775,000",1.0,0.9%,2027.0,Standard,RFA +arb,2023-24,Matt Keator
+Brian Halonen,N.J,"$925,000","$925,000",2.0,1.1%,2026.0,Entry Level,RFA +arb,2023-24,Jeff Helperl
+Nick Blankenburg,CBJ,"$825,000","$850,000",2.0,1%,2025.0,Standard,UFA-Group6,2023-24,Blake Robson
+Nick Blankenburg,CBJ,"$825,000","$850,000",2.0,1%,2025.0,Standard,UFA-Group6,2023-24,Blake Robson
+Ben Meyers,COL,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Daniel Plante
+Ben Meyers,COL,"$775,000","$775,000",1.0,0.9%,2026.0,Standard,UFA-Group6,2023-24,Daniel Plante
+Milos Kelemen,ARI,"$817,500","$830,000",2.0,1%,2027.0,Entry Level,RFA +arb,2023-24,J.P. Barry
+Adam Klapka,CGY,"$832,500","$845,000",2.0,1%,2028.0,Entry Level,RFA +arb,2023-24,Gerry Johannson
+Filip Roos,CHI,"$925,000","$925,000",2.0,1.1%,2026.0,Entry Level,RFA +arb,2023-24,Patrik Aronsson
+Pavol Regenda,ANA,"$855,000","$867,500",2.0,1%,2027.0,Entry Level,RFA +arb,2023-24,J.P. Barry
+Jason Polin,COL,"$870,000","$870,000",1.0,1%,2026.0,Entry Level,RFA +arb,2023-24,Richard Evans
+Cole McWard,VAN,"$922,500","$895,000",2.0,1.1%,2028.0,Entry Level,RFA,2023-24,Allain Roy
+Jiri Smejkal,OTT,"$870,000","$870,000",1.0,1%,2024.0,Entry Level,UFA,2023-24,Craig Oster
+Nikolas Matinpalo,OTT,"$885,000","$885,000",1.0,1.1%,2026.0,Entry Level,RFA +arb,2023-24,Murray Koontz
+Waltteri Merela,T.B,"$870,000","$870,000",1.0,1%,2026.0,Entry Level,RFA +arb,2023-24,Mark Gandler & Todd Diamond
+Patrik Koch,ARI,"$847,500","$847,500",1.0,1%,2024.0,Entry Level,UFA,2023-24,Serge Payer

@@ -1,0 +1,292 @@
+Player,Current  Cap Hit,Current  Salary,Contract  Length,Current  Cap %,Age,Height,Weight,Pos,Shoots,UFA Year,Contract Type,Signing Status,Expiry Status,Start Yr,Expiry Yr,Agent
+Filip Hronek,"$4,400,000","$5,500,000",3,5.3%,26,72in,187lbs,D,R,2025,Standard,RFA,RFA +arb,2021,2023-24,Allan Walsh
+Ryan Lindgren,"$3,000,000","$4,000,000",3,3.6%,26,72in,190lbs,D,L,2025,Standard,RFA,RFA +arb,2021,2023-24,Wade Arnott
+Martin Necas,"$3,000,000","$3,500,000",2,3.6%,25,74in,198lbs,C,R,2026,Standard,RFA,RFA +arb,2022,2023-24,Michael Deutsch
+Luke Kunin,"$2,750,000","$3,000,000",2,3.3%,26,72in,196lbs,C,R,2025,Standard,RFA +arb,RFA +arb,2022,2023-24,Pete Rutili
+Henri Jokiharju,"$2,500,000","$2,600,000",3,3%,24,72in,201lbs,D,R,2026,Standard,RFA,RFA +arb,2021,2023-24,Markus Lehto
+Casey Mittelstadt,"$2,500,000","$2,600,000",3,3%,25,73in,196lbs,C,L,2026,Standard,RFA,RFA +arb,2021,2023-24,Neil Sheehy
+Jake Bean,"$2,333,333","$2,900,000",3,2.8%,25,73in,176lbs,D,L,2025,Standard,RFA,RFA +arb,2021,2023-24,Judd Moldaver
+Dillon Dube,"$2,300,000","$2,400,000",3,2.8%,25,71in,185lbs,C,L,2026,Standard,RFA,RFA +arb,2021,2023-24,Dave Cowan
+Kaapo Kakko,"$2,100,000","$2,400,000",2,2.5%,23,75in,205lbs,RW,L,2026,Standard,RFA,RFA +arb,2022,2023-24,Andy Scott
+Erik Brannstrom,"$2,000,000","$2,000,000",1,2.4%,24,70in,185lbs,D,L,2027,Standard,RFA +arb,RFA +arb,2023,2023-24,Craig Oster
+Jacob Bryson,"$1,850,000","$1,900,000",2,2.2%,26,69in,176lbs,D,L,2025,Standard,RFA +arb,RFA +arb,2022,2023-24,Allain Roy
+Isac Lundestrom,"$1,800,000","$1,800,000",2,2.2%,24,72in,192lbs,C,L,2027,Standard,RFA +arb,RFA +arb,2022,2023-24,Peter Wallen
+Barrett Hayton,"$1,775,000","$2,130,000",2,2.1%,23,73in,207lbs,C,L,2027,Standard,RFA,RFA +arb,2022,2023-24,Patrick Morris
+Sean Durzi,"$1,700,000","$2,000,000",2,2%,25,72in,194lbs,D,R,2026,Standard,RFA,RFA +arb,2022,2023-24,Allan Walsh
+Blake Lizotte,"$1,675,000","$1,675,000",2,2%,26,69in,170lbs,C,L,2025,Standard,RFA +arb,RFA +arb,2022,2023-24,Daniel Plante
+Alexandre Texier,"$1,525,000","$1,750,000",3,1.8%,24,73in,194lbs,C,L,2027,Standard,RFA,RFA +arb,2021,2023-24,Markus Lehto
+Kailer Yamamoto,"$1,500,000","$1,500,000",1,1.8%,25,68in,152lbs,RW,R,2026,Standard,UFA,RFA +arb,2023,2023-24,J.P. Barry
+Eeli Tolvanen,"$1,450,000","$1,450,000",3,1.7%,24,70in,192lbs,RW,L,2026,Standard,RFA,RFA +arb,2021,2023-24,Michael Curran
+Timothy Liljegren,"$1,400,000","$1,500,000",2,1.7%,24,72in,192lbs,D,R,2026,Standard,RFA,RFA +arb,2022,2023-24,Peter Wallen
+Michael McLeod,"$1,400,000","$1,400,000",1,1.7%,26,74in,190lbs,C,R,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Joseph Resnick
+Riley Stillman,"$1,350,000","$1,350,000",3,1.6%,26,73in,196lbs,D,L,2025,Standard,RFA,RFA +arb,2021,2023-24,Paul Capizzano
+Carl Grundstrom,"$1,300,000","$1,300,000",2,1.6%,26,72in,194lbs,RW,L,2025,Standard,RFA +arb,RFA +arb,2022,2023-24,J.P. Barry
+Max Jones,"$1,295,000","$1,500,000",3,1.6%,26,75in,216lbs,LW,L,2025,Standard,RFA,RFA +arb,2021,2023-24,Pat Brisson
+Juuso Valimaki,"$1,000,000","$1,000,000",1,1.2%,25,74in,212lbs,D,L,2026,Standard,RFA +arb,RFA +arb,2023,2023-24,Dave Cowan
+Logan Stanley,"$1,000,000","$1,000,000",1,1.2%,25,79in,231lbs,D,L,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Andy Scott
+Cole Guttman,"$950,000","$950,000",2,1.1%,25,69in,168lbs,C,R,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Pat Brisson
+Gustav Lindstrom,"$950,000","$950,000",1,1.1%,25,74in,183lbs,D,R,2026,Standard,UFA no QO,RFA +arb,2023,2023-24,Craig Oster
+Curtis Hall,"$925,000","$925,000",3,1.1%,23,75in,212lbs,C,R,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Clark Maclean
+Dylan Holloway,"$925,000","$925,000",3,1.1%,22,73in,203lbs,LW,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Blake Robson
+Justin Barron,"$925,000","$925,000",3,1.1%,22,74in,201lbs,D,R,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Wade Arnott
+Nils Lundkvist,"$925,000","$925,000",3,1.1%,23,70in,190lbs,D,R,2028,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Claude Lemieux
+Anton Lundell,"$925,000","$925,000",3,1.1%,22,73in,185lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Markus Lehto
+Jack Drury,"$925,000","$925,000",3,1.1%,24,71in,174lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,No Agent
+Cole Sillinger,"$925,000","$925,000",3,1.1%,20,74in,203lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Craig Oster
+Michael Kesselring,"$925,000","$925,000",3,1.1%,24,77in,220lbs,D,R,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Matt Keator
+Vasily Podkolzin,"$925,000","$925,000",3,1.1%,22,73in,190lbs,RW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Craig Oster
+Corey Andonovski,"$925,000","$925,000",2,1.1%,25,73in,194lbs,RW,R,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Joseph Resnick
+Spencer Stastney,"$925,000","$925,000",2,1.1%,24,72in,183lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Pete Rutili
+Bobby Trivigno,"$925,000","$925,000",2,1.1%,25,68in,161lbs,LW,L,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Pete Rutili
+Bobby Brink,"$925,000","$925,000",3,1.1%,22,68in,165lbs,RW,R,2029,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Ben Hankinson
+Ivan Morozov,"$925,000","$925,000",2,1.1%,23,73in,196lbs,C,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Mark Gandler & Todd Diamond
+Carter Savoie,"$925,000","$925,000",3,1.1%,22,70in,192lbs,LW,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Gerry Johannson
+Lucas Raymond,"$925,000","$925,000",3,1.1%,22,70in,183lbs,RW,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,J.P. Barry
+Matej Blumel,"$925,000","$925,000",2,1.1%,23,72in,198lbs,LW,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,J.P. Barry
+Filip Roos,"$925,000","$925,000",2,1.1%,25,76in,190lbs,D,L,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Patrik Aronsson
+Jonatan Berggren,"$925,000","$925,000",3,1.1%,23,71in,194lbs,RW,L,2028,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Scott Bartlett
+Kirill Marchenko,"$925,000","$925,000",2,1.1%,23,75in,187lbs,RW,R,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Daniel Milstein
+Josh Mahura,"$925,000","$925,000",1,1.1%,25,72in,190lbs,D,L,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Gregory Landry
+Aidan McDonough,"$925,000","$925,000",2,1.1%,24,74in,201lbs,LW,L,2027,Entry Level,No Signing Status,RFA,2022,2023-24,Glen Giovanucci
+Nikita Nesterenko,"$925,000","$925,000",2,1.1%,22,74in,183lbs,C,L,2029,Entry Level,No Signing Status,RFA,2022,2023-24,Jordan Neumann & George Bazos
+Jackson LaCombe,"$925,000","$925,000",2,1.1%,23,74in,201lbs,D,L,2028,Entry Level,No Signing Status,RFA,2022,2023-24,Pat Brisson
+Kent Johnson,"$925,000","$925,000",3,1.1%,21,73in,168lbs,LW,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Pat Brisson
+Brian Halonen,"$925,000","$925,000",2,1.1%,25,72in,207lbs,LW,R,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Jeff Helperl
+Cole McWard,"$922,500","$895,000",2,1.1%,22,73in,192lbs,D,R,2028,Entry Level,No Signing Status,RFA,2022,2023-24,Allain Roy
+Will Zmolek,"$920,000","$920,000",1,1.1%,25,75in,194lbs,D,L,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,Chris McAlpine
+Alex Vlasic,"$916,667","$925,000",3,1.1%,22,78in,216lbs,D,L,2028,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Scott Bartlett
+Thomas Bordeleau,"$916,667","$925,000",3,1.1%,22,70in,174lbs,C,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Pat Brisson
+Henry Thrun,"$912,500","$925,000",2,1.1%,22,74in,190lbs,D,L,2029,Entry Level,No Signing Status,RFA,2022,2023-24,Matt Keator
+Emil Bemstrom,"$900,000","$900,000",2,1.1%,24,70in,194lbs,C,R,2026,Standard,RFA,RFA +arb,2022,2023-24,Claude Lemieux
+Ty Dellandrea,"$900,000","$900,000",1,1.1%,23,73in,194lbs,C,R,2028,Standard,RFA,RFA +arb,2023,2023-24,Todd Reynolds
+Layton Ahac,"$897,500","$925,000",3,1.1%,23,74in,205lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Ross Gurney
+Matthew Beniers,"$897,500","$925,000",3,1.1%,21,74in,174lbs,C,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Pat Brisson
+Seth Jarvis,"$894,167","$832,500",3,1.1%,22,70in,174lbs,C,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Gerry Johannson
+Alex Turcotte,"$894,167","$832,500",3,1.1%,23,71in,185lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Pat Brisson
+Arthur Kaliyev,"$894,167","$832,500",3,1.1%,22,74in,209lbs,RW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Ian Pulver
+Dawson Mercer,"$894,167","$832,500",3,1.1%,22,72in,181lbs,C,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,No Agent
+Cole Perfetti,"$894,167","$832,500",3,1.1%,22,71in,185lbs,C,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Cameron Stewart
+Quinton Byfield,"$894,167","$832,500",3,1.1%,21,77in,216lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,David Gagner
+Adam Beckman,"$894,167","$832,500",3,1.1%,22,74in,183lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Michael Kaye
+Janis Jérôme Moser,"$886,667","$925,000",3,1.1%,23,73in,187lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Patrick Morris
+Nikolas Matinpalo,"$885,000","$885,000",1,1.1%,25,75in,207lbs,D,R,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,Murray Koontz
+Michael Callahan,"$883,750","$925,000",2,1.1%,24,74in,201lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,No Agent
+Andre Lee,"$883,750","$925,000",2,1.1%,23,76in,205lbs,LW,L,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,No Agent
+Blake McLaughlin,"$883,750","$925,000",2,1.1%,24,71in,161lbs,LW,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Ben Hankinson
+Linus Karlsson,"$883,750","$925,000",2,1.1%,24,73in,179lbs,C,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,No Agent
+Ville Petman,"$883,750","$925,000",2,1.1%,24,70in,181lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Allain Roy
+Adam Ginning,"$883,750","$925,000",2,1.1%,24,76in,205lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Patrik Aronsson
+Filip Johansson,"$883,750","$925,000",2,1.1%,24,73in,176lbs,D,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Craig Oster
+Alex Beaucage,"$878,333","$925,000",3,1.1%,22,73in,192lbs,RW,R,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Robert Sauve
+Raphael Lavoie,"$874,125","$874,125",1,1%,23,76in,216lbs,C,R,2028,Standard,RFA,RFA +arb,2023,2023-24,Philippe Lecavalier
+Oliver Wahlstrom,"$874,125","$874,125",1,1%,23,74in,205lbs,RW,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Pat Brisson
+Yan Kuznetsov,"$870,000","$825,000",3,1%,22,76in,209lbs,D,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Mark Gandler & Todd Diamond
+Karl Henriksson,"$870,000","$925,000",3,1%,23,69in,176lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Craig Oster
+Jason Polin,"$870,000","$870,000",1,1%,24,72in,198lbs,RW,R,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,Richard Evans
+Waltteri Merela,"$870,000","$870,000",1,1%,25,74in,196lbs,RW,R,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,Mark Gandler & Todd Diamond
+Hardy Haman Aktell,"$870,000","$870,000",1,1%,25,76in,198lbs,D,L,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,Craig Oster
+Brayden Tracey,"$863,334","$832,500",3,1%,22,72in,176lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Michael Kaye
+Thomas Harley,"$863,334","$832,500",3,1%,22,75in,205lbs,D,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Andy Scott
+Moritz Seider,"$863,334","$832,500",3,1%,23,76in,205lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Claude Lemieux
+Philip Broberg,"$863,334","$832,500",3,1%,22,75in,198lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Darren Ferris
+Philip Tomasino,"$863,334","$832,500",3,1%,22,73in,198lbs,C,R,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Wade Arnott
+Nolan Foote,"$863,334","$832,500",3,1%,23,75in,201lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Kurt Overhardt
+Simon Holmstrom,"$863,334","$832,500",3,1%,22,73in,203lbs,RW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,J.P. Barry
+Lassi Thomson,"$863,334","$832,500",3,1%,23,72in,190lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Craig Oster
+Samuel Poulin,"$863,334","$832,500",3,1%,23,74in,214lbs,RW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Pat Brisson
+Peyton Krebs,"$863,334","$832,500",3,1%,23,72in,187lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Kevin Epp
+Ville Heinola,"$863,334","$832,500",3,1%,23,72in,181lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Allain Roy
+Jakob Pelletier,"$863,334","$832,500",3,1%,23,69in,170lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Olivier Fortier
+Ryan Suzuki,"$863,334","$832,500",3,1%,22,73in,190lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,David Gagner
+Victor Soderstrom,"$863,334","$832,500",3,1%,23,72in,196lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Darren Ferris
+Connor McMichael,"$863,334","$832,500",3,1%,23,72in,187lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,David Gagner
+Mattias Norlinder,"$859,167","$892,500",3,1%,24,73in,194lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,J.P. Barry
+John St. Ivany,"$857,500","$870,000",2,1%,24,75in,201lbs,D,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Pat Brisson
+Felix Robert,"$857,500","$870,000",2,1%,24,69in,180lbs,C,R,2027,Entry Level,No Signing Status,RFA,2022,2023-24,Olivier Fortier
+Cole Schwindt,"$855,833","$832,500",3,1%,22,75in,194lbs,C,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Patrick Morris
+Danila Zhuravlyov,"$855,000","$842,500",2,1%,24,72in,163lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,No Agent
+Jachym Kondelik,"$855,000","$842,500",2,1%,24,79in,236lbs,C,L,2027,Entry Level,No Signing Status,RFA,2022,2023-24,No Agent
+Declan Carlile,"$855,000","$867,500",2,1%,23,74in,192lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Peter Fish
+Santtu Kinnunen,"$855,000","$867,500",2,1%,25,74in,165lbs,D,R,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Simo Niiranen
+Pavol Regenda,"$855,000","$867,500",2,1%,24,75in,218lbs,LW,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,J.P. Barry
+Peetro Seppala,"$855,000","$867,500",2,1%,23,74in,192lbs,D,L,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Andrew Maloney
+Calle Sjalin,"$855,000","$867,500",2,1%,24,73in,179lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,J.P. Barry
+Samuel Walker,"$855,000","$867,500",2,1%,24,70in,174lbs,C,R,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Neil Sheehy
+Ruslan Iskhakov,"$855,000","$867,500",2,1%,23,68in,165lbs,C,L,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Daniel Milstein
+Simon Johansson,"$855,000","$867,500",2,1%,24,74in,194lbs,D,R,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Kurt Overhardt
+Sam Hentges,"$855,000","$867,500",2,1%,24,72in,174lbs,C,R,2027,Entry Level,No Signing Status,RFA,2022,2023-24,Edward Ward
+Graeme Clarke,"$850,833","$867,500",3,1%,22,72in,174lbs,RW,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Randy Robitaille
+Juuso Parssinen,"$850,833","$867,500",3,1%,23,75in,212lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Jerry Buckley
+Oskar Back,"$850,833","$867,500",3,1%,24,74in,205lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,J.P. Barry
+Tyler Angle,"$850,833","$867,500",3,1%,23,70in,172lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Patrick Morris
+Brandon Coe,"$850,833","$867,500",3,1%,22,76in,190lbs,RW,R,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Andy Scott
+Marc Del Gaizo,"$850,833","$867,500",3,1%,24,71in,187lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Michael Curran
+Louis Crevier,"$850,833","$867,500",3,1%,22,80in,227lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Paul Corbeil
+Santeri Hatakka,"$850,833","$867,500",3,1%,23,73in,192lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,J.P. Barry
+Michael Vukojevic,"$850,833","$867,500",3,1%,22,75in,216lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Robert Hooper
+Filip Cederqvist,"$850,000","$866,667",2,1%,23,74in,203lbs,LW,L,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,No Agent
+Jack Rathbone,"$850,000","$950,000",2,1%,24,71in,190lbs,D,L,2026,Standard,RFA,UFA-Group6,2022,2023-24,Jerry Buckley
+Urho Vaakanainen,"$850,000","$900,000",2,1%,25,74in,201lbs,D,L,2026,Standard,RFA,RFA +arb,2022,2023-24,Mika Rautakallio
+Sam Steel,"$850,000","$850,000",1,1%,26,71in,183lbs,C,L,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Gerry Johannson
+Dylan Coghlan,"$850,000","$850,000",1,1%,26,74in,207lbs,D,R,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Dave Cowan
+Adam Raska,"$848,333","$865,000",3,1%,22,70in,183lbs,RW,R,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Allan Walsh
+Karel Plasek,"$846,667","$830,000",3,1%,23,72in,181lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Michael Deutsch
+Noel Hoefenmayer,"$845,000","$845,000",1,1%,25,72in,192lbs,D,L,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,Allain Roy
+Adam Wilsby,"$842,500","$855,000",2,1%,23,73in,192lbs,D,L,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Joakim Persson
+Jamieson Rees,"$839,167","$832,500",3,1%,23,71in,172lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Wade Arnott
+Axel Rindell,"$838,750","$825,000",2,1%,23,72in,192lbs,D,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Mark Gandler & Todd Diamond
+Max Ellis,"$838,750","$852,500",2,1%,24,69in,172lbs,RW,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Matt Federico
+Angus Crookshank,"$838,333","$855,000",3,1%,24,70in,181lbs,LW,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Ross Gurney
+Curtis Douglas,"$837,500","$850,000",2,1%,24,81in,243lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Patrick Morris
+Dmitry Ovchinnikov,"$835,000","$855,000",3,1%,21,70in,165lbs,C,L,2030,Entry Level,No Signing Status,RFA,2021,2023-24,Shumi Babaev
+Nick Cicek,"$835,000","$847,500",2,1%,23,75in,201lbs,D,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Allain Roy
+Pavel Gogolev,"$834,167","$825,000",3,1%,24,73in,198lbs,LW,L,2027,Entry Level,No Signing Status,RFA,2021,2023-24,Randy Robitaille
+Alex Steeves,"$834,167","$852,500",3,1%,24,72in,196lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Allain Roy
+Adam Klapka,"$832,500","$845,000",2,1%,23,80in,236lbs,RW,R,2028,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Gerry Johannson
+Yevgeni Oksentyuk,"$828,333","$820,000",3,1%,23,68in,163lbs,RW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+Ilya Solovyov,"$828,333","$845,000",3,1%,23,75in,207lbs,D,L,2028,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Daniel Milstein
+Arber Xhekaj,"$828,333","$835,000",3,1%,23,76in,238lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Viktor Saljanin
+Pierre-Olivier Joseph,"$825,000","$850,000",2,1%,24,74in,185lbs,D,L,2027,Standard,RFA,RFA +arb,2022,2023-24,Olivier Fortier
+Nick Blankenburg,"$825,000","$850,000",2,1%,25,69in,176lbs,D,R,2025,Standard,RFA,UFA-Group6,2022,2023-24,Blake Robson
+Joseph Veleno,"$825,000","$825,000",1,1%,24,73in,205lbs,C,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Philippe Lecavalier
+Calen Addison,"$825,000","$825,000",1,1%,24,71in,172lbs,D,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Craig Oster
+Pavel Dorofeyev,"$825,000","$825,000",1,1%,23,73in,194lbs,LW,L,2028,Standard,RFA,RFA +arb,2023,2023-24,Rick Komarow
+Tuukka Tieksola,"$823,333","$845,000",3,1%,22,71in,174lbs,RW,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Ian Pulver
+Michael Teply,"$820,000","$775,000",3,1%,22,75in,187lbs,LW,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,No Agent
+Albert Johansson,"$820,000","$775,000",3,1%,23,72in,185lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,No Agent
+Gage Goncalves,"$820,000","$775,000",3,1%,23,72in,181lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Allain Roy
+Jordan Spence,"$820,000","$775,000",3,1%,23,70in,181lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Peter MacTavish
+Mason Millman,"$818,333","$775,000",3,1%,22,73in,176lbs,D,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Joseph Resnick
+Milos Kelemen,"$817,500","$830,000",2,1%,24,74in,209lbs,LW,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,J.P. Barry
+Nikita Alexandrov,"$816,667","$832,500",3,1%,23,73in,176lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Patrick Morris
+Liam Kirk,"$813,333","$805,000",3,1%,24,73in,183lbs,LW,L,2027,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+Maxence Guenette,"$813,333","$830,000",3,1%,22,75in,196lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Dom Deblois
+Cole Reinhardt,"$813,333","$830,000",3,1%,24,73in,207lbs,LW,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Scott Norton
+Patrick Giles,"$812,500","$825,000",2,1%,24,76in,203lbs,RW,R,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Shawn Hunwick
+Mikhail Abramov,"$809,444","$775,000",3,1%,23,71in,170lbs,C,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+James Hamblin,"$807,500","$820,000",2,1%,24,69in,176lbs,LW,L,2026,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Rick Valette
+Wyatt Bongiovanni,"$802,500","$815,000",2,1%,24,72in,194lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2022,2023-24,Scott Bartlett
+Mike Hardman,"$800,000","$850,000",2,1%,25,74in,205lbs,C,L,2026,Standard,RFA,UFA-Group6,2022,2023-24,Jerry Buckley
+Mackenzie Entwistle,"$800,000","$850,000",2,1%,24,75in,205lbs,RW,R,2027,Standard,RFA,RFA +arb,2022,2023-24,Paul Capizzano
+Oskar Steen,"$800,000","$800,000",2,1%,26,70in,194lbs,C,R,2025,Standard,RFA +arb,UFA-Group6,2022,2023-24,Joakim Persson
+Reese Johnson,"$800,000","$850,000",2,1%,25,73in,192lbs,C,R,2026,Standard,RFA +arb,RFA +arb,2022,2023-24,Michael O'Rafferty
+Connor Dewar,"$800,000","$850,000",2,1%,24,70in,183lbs,C,L,2026,Standard,RFA,RFA +arb,2022,2023-24,Tobin Wright
+Otto Koivula,"$800,000","$850,000",2,1%,25,77in,225lbs,LW,L,2026,Standard,RFA +arb,UFA-Group6,2022,2023-24,Mark Gandler & Todd Diamond
+Robin Salo,"$800,000","$850,000",2,1%,25,73in,187lbs,D,L,2026,Standard,RFA +arb,UFA-Group6,2022,2023-24,Lewis Gross
+Yegor Chinakhov,"$800,000","$800,000",1,1%,23,73in,190lbs,C,L,2028,Standard,RFA,RFA +arb,2023,2023-24,Shumi Babaev
+Kyle MacLean,"$800,000","$800,000",1,1%,24,73in,190lbs,C,L,2026,Entry Level,No Signing Status,RFA +arb,2023,2023-24,No Agent
+Joey Anderson,"$800,000","$800,000",1,1%,25,72in,207lbs,RW,R,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Jay Grossman
+Callan Foote,"$800,000","$800,000",1,1%,25,76in,225lbs,D,R,2026,Standard,UFA no QO,RFA +arb,2023,2023-24,Kurt Overhardt
+Matthew Robertson,"$797,500","$800,000",3,1%,23,76in,201lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,J.P. Barry
+Nicholas Robertson,"$796,667","$775,000",3,1%,22,70in,183lbs,LW,L,2029,Entry Level,No Signing Status,RFA,2021,2023-24,Pat Brisson
+Luke Henman,"$791,667","$815,000",3,0.9%,23,72in,168lbs,C,L,2027,Entry Level,No Signing Status,RFA +arb,2021,2023-24,Chad Levitt
+Griffin Mendel,"$790,000","$790,000",1,0.9%,25,78in,220lbs,D,L,2026,Standard,No Signing Status,RFA +arb,2023,2023-24,J.P. Barry
+Vladislav Kolyachonok,"$789,167","$775,000",3,0.9%,22,73in,194lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+Nathan Legare,"$789,167","$775,000",3,0.9%,23,72in,205lbs,RW,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Mathieu Curadeau
+Dillon Hamaliuk,"$789,167","$775,000",3,0.9%,23,76in,201lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Jeff Helperl
+Artemi Kniazev,"$789,167","$775,000",3,0.9%,23,72in,181lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+Egor Afanasyev,"$789,167","$775,000",3,0.9%,23,76in,212lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+Kaedan Korczak,"$789,167","$775,000",3,0.9%,23,76in,201lbs,D,R,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Rick Valette
+Nikita Okhotyuk,"$789,167","$775,000",3,0.9%,23,73in,194lbs,D,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Daniel Milstein
+Wyatt Newpower,"$787,500","$787,500",1,0.9%,26,75in,207lbs,D,R,2025,Standard,RFA +arb,UFA-Group6,2023,2023-24,No Agent
+Jared McIsaac,"$787,500","$787,500",1,0.9%,24,73in,192lbs,D,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Pat Brisson
+Wade Allison,"$785,000","$820,000",2,0.9%,26,74in,205lbs,RW,R,2025,Standard,RFA +arb,UFA-Group6,2022,2023-24,Thomas Lynn
+Marcus Kallionkieli,"$784,722","$750,000",3,0.9%,23,74in,194lbs,LW,L,2028,Entry Level,No Signing Status,RFA,2021,2023-24,Jay Grossman
+Kristian Reichel,"$775,000","$775,000",2,0.9%,25,72in,187lbs,C,R,2025,Standard,RFA +arb,UFA-Group6,2022,2023-24,No Agent
+David Gustafsson,"$775,000","$775,000",2,0.9%,24,74in,196lbs,C,L,2027,Standard,RFA,RFA +arb,2022,2023-24,Craig Oster
+Brett Leason,"$775,000","$800,000",2,0.9%,24,77in,218lbs,RW,R,2026,Standard,RFA,RFA +arb,2022,2023-24,J.P. Barry
+Ethen Frank,"$775,000","$775,000",1,0.9%,26,71in,185lbs,C,R,2025,Standard,No Signing Status,RFA +arb,2023,2023-24,Matt Federico
+Alexander Nylander,"$775,000","$775,000",1,0.9%,26,73in,192lbs,C,R,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Lewis Gross
+Mathias Laferriere,"$775,000","$775,000",1,0.9%,23,74in,181lbs,C,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Philippe Lecavalier
+Yegor Zamula,"$775,000","$775,000",1,0.9%,24,75in,176lbs,D,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Shumi Babaev
+Nathan Clurman,"$775,000","$775,000",1,0.9%,25,74in,205lbs,D,R,2025,Standard,RFA +arb,UFA-Group6,2023,2023-24,Matt Federico
+Jake Christiansen,"$775,000","$775,000",1,0.9%,24,72in,185lbs,D,L,2027,Standard,RFA +arb,RFA +arb,2023,2023-24,No Agent
+Wyatt Aamodt,"$775,000","$775,000",1,0.9%,26,72in,201lbs,D,L,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Ian Pulver
+Cole Koepke,"$775,000","$775,000",1,0.9%,25,73in,196lbs,LW,L,2025,Standard,RFA +arb,UFA-Group6,2023,2023-24,Daniel Plante
+Joshua Dunne,"$775,000","$775,000",1,0.9%,25,76in,209lbs,C,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Todd Reynolds
+Cam Dineen,"$775,000","$775,000",1,0.9%,25,71in,187lbs,D,L,2025,Standard,UFA-Group6,UFA-Group6,2023,2023-24,Michael Curran
+Fredrik Karlstrom,"$775,000","$775,000",1,0.9%,26,74in,196lbs,C,L,2025,Standard,UFA-Group6,UFA-Group6,2023,2023-24,Markus Lehto
+Sean Day,"$775,000","$775,000",1,0.9%,26,75in,218lbs,D,L,2025,Standard,UFA-Group6,UFA-Group6,2023,2023-24,Patrick Sullivan
+Valtteri Puustinen,"$775,000","$775,000",1,0.9%,24,69in,183lbs,RW,R,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Markus Lehto
+Gabriel Fortier,"$775,000","$775,000",1,0.9%,24,70in,183lbs,LW,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Erik Lupien
+Carson Meyer,"$775,000","$775,000",1,0.9%,26,71in,183lbs,RW,R,2025,Standard,RFA +arb,UFA-Group6,2023,2023-24,Allain Roy
+Scott Perunovich,"$775,000","$775,000",1,0.9%,25,70in,174lbs,D,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Ian Pulver
+Ryan Mcgregor,"$775,000","$775,000",1,0.9%,25,72in,194lbs,C,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,No Agent
+Shane Bowers,"$775,000","$775,000",1,0.9%,24,74in,185lbs,C,L,2027,Standard,RFA +arb,RFA +arb,2023,2023-24,Judd Moldaver
+Nick Swaney,"$775,000","$775,000",1,0.9%,26,71in,190lbs,RW,R,2025,Standard,RFA +arb,UFA-Group6,2023,2023-24,Ian Pulver
+Marcus Bjork,"$775,000","$775,000",1,0.9%,26,75in,203lbs,D,R,2025,Standard,RFA +arb,RFA +arb,2023,2023-24,Lewis Gross
+Jacob Peterson,"$775,000","$775,000",1,0.9%,24,73in,181lbs,C,L,2027,Standard,RFA +arb,RFA +arb,2023,2023-24,Craig Oster
+Taylor Ward,"$775,000","$775,000",1,0.9%,26,74in,194lbs,RW,R,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Justin Duberman
+Cameron Crotty,"$775,000","$775,000",1,0.9%,24,75in,212lbs,D,R,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,Murray Koontz
+Jaret Anderson-Dolan,"$775,000","$775,000",1,0.9%,24,71in,201lbs,C,L,2027,Standard,UFA no QO,RFA +arb,2023,2023-24,J.P. Barry
+Travis Barron,"$775,000","$775,000",1,0.9%,25,73in,205lbs,LW,L,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,Darren Ferris
+Lucas Carlsson,"$775,000","$775,000",1,0.9%,26,72in,190lbs,D,L,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Peter Wallen
+Justin Richards,"$775,000","$775,000",1,0.9%,26,71in,190lbs,C,R,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Ben Hankinson
+Alexander True,"$775,000","$775,000",1,0.9%,26,77in,201lbs,C,L,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Claude Lemieux
+Garrett Pilon,"$775,000","$775,000",1,0.9%,26,71in,187lbs,C,R,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,David Kaye
+Riley Tufte,"$775,000","$775,000",1,0.9%,26,78in,231lbs,LW,L,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Ben Hankinson
+Mikhail Maltsev,"$775,000","$775,000",1,0.9%,26,75in,198lbs,C,L,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Paul Theofanous
+Marian Studenic,"$775,000","$775,000",1,0.9%,25,73in,181lbs,LW,L,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,Allan Walsh
+Matthew Phillips,"$775,000","$775,000",1,0.9%,26,67in,141lbs,C,R,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Allain Roy
+Alex Limoges,"$775,000","$775,000",1,0.9%,26,73in,201lbs,C,L,2025,Standard,UFA no QO +arb,RFA +arb,2023,2023-24,Lewis Gross
+Mitchell Chaffee,"$775,000","$775,000",1,0.9%,26,73in,201lbs,RW,R,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Donald Meehan
+Brady Lyle,"$775,000","$775,000",1,0.9%,24,75in,216lbs,D,R,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,Ian Pulver
+Lias Andersson,"$775,000","$775,000",1,0.9%,25,71in,185lbs,C,L,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Jarrett Bousquet
+John Leonard,"$775,000","$775,000",1,0.9%,25,71in,196lbs,LW,L,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,Matt Keator
+Jasper Weatherby,"$775,000","$775,000",1,0.9%,26,76in,223lbs,C,L,2025,Standard,UFA no QO,UFA-Group6,2023,2023-24,Pat Brisson
+Maxime Lajoie,"$775,000","$775,000",1,0.9%,26,73in,181lbs,D,L,2025,Standard,UFA-Group6 +arb,UFA-Group6,2023,2023-24,Craig Oster
+Riley Sutter,"$775,000","$775,000",1,0.9%,24,76in,207lbs,RW,R,2027,Standard,RFA,RFA +arb,2023,2023-24,J.P. Barry
+Rasmus Asplund,"$775,000","$775,000",1,0.9%,26,71in,190lbs,C,L,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Peter Wallen
+Kale Clague,"$775,000","$775,000",1,0.9%,25,72in,187lbs,D,L,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Judd Moldaver
+Hugh McGing,"$775,000","$775,000",1,0.9%,25,68in,176lbs,LW,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Richard Evans
+Ben Jones,"$775,000","$775,000",1,0.9%,25,72in,187lbs,C,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Jason Harshaw
+Emilio Pettersen,"$775,000","$775,000",1,0.9%,24,70in,170lbs,C,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Shawn Hunwick
+Samuel Fagemo,"$775,000","$775,000",1,0.9%,24,72in,201lbs,LW,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Craig Oster
+Tyler Madden,"$775,000","$775,000",1,0.9%,24,71in,170lbs,C,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Pete Rutili
+Nathan Smith,"$775,000","$775,000",1,0.9%,25,73in,198lbs,C,R,2026,Standard,RFA,UFA-Group6,2023,2023-24,Richard Evans
+Kole Lind,"$775,000","$775,000",1,0.9%,25,73in,179lbs,RW,R,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Gerry Johannson
+Ian Mitchell,"$775,000","$775,000",1,0.9%,25,71in,174lbs,D,R,2026,Standard,RFA +arb,RFA +arb,2023,2023-24,Gregory Landry
+Jesper Boqvist,"$775,000","$775,000",1,0.9%,25,72in,181lbs,C,L,2026,Standard,UFA no QO,RFA +arb,2023,2023-24,Peter Wallen
+Ty Emberson,"$775,000","$775,000",1,0.9%,23,73in,194lbs,D,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Daniel Plante
+Jonathan Gruden,"$775,000","$775,000",1,0.9%,23,72in,172lbs,LW,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Cameron Stewart
+Riley Damiani,"$775,000","$775,000",1,0.9%,24,70in,170lbs,C,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Cameron Stewart
+Ty Smith,"$775,000","$775,000",1,0.9%,24,71in,179lbs,D,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Gerry Johannson
+Benoit-Olivier Groulx,"$775,000","$775,000",1,0.9%,24,74in,201lbs,C,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Pat Brisson
+Alec Regula,"$775,000","$775,000",1,0.9%,23,76in,207lbs,D,R,2028,Standard,RFA,RFA +arb,2023,2023-24,Scott Bartlett
+Ben Meyers,"$775,000","$775,000",1,0.9%,25,71in,194lbs,C,L,2026,Standard,RFA,UFA-Group6,2023,2023-24,Daniel Plante
+Jesse Ylonen,"$775,000","$775,000",1,0.9%,24,73in,190lbs,RW,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Ian Pulver
+Logan Brown,"$775,000","$775,000",1,0.9%,26,78in,227lbs,C,L,2025,Standard,UFA no QO,RFA +arb,2023,2023-24,Judd Moldaver
+Mac Hollowell,"$775,000","$775,000",1,0.9%,25,69in,187lbs,D,R,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,David Gagner
+Brett Murray,"$775,000","$775,000",1,0.9%,25,77in,227lbs,LW,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,David Gagner
+Declan Chisholm,"$775,000","$775,000",1,0.9%,24,73in,190lbs,D,L,2027,Standard,RFA,RFA +arb,2023,2023-24,Richard Evans
+Egor Sokolov,"$775,000","$775,000",1,0.9%,23,75in,223lbs,LW,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Andy Scott
+Jan Jenik,"$775,000","$775,000",1,0.9%,23,73in,192lbs,C,L,2028,Standard,RFA,RFA +arb,2023,2023-24,Allan Walsh
+Noah Gregor,"$775,000","$775,000",1,0.9%,25,72in,190lbs,C,L,2026,Standard,UFA no QO,RFA +arb,2023,2023-24,Craig Oster
+Reilly Walsh,"$775,000","$775,000",1,0.9%,24,72in,185lbs,D,R,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Matt Keator
+Linus Weissbach,"$775,000","$775,000",1,0.9%,25,69in,174lbs,LW,L,2025,Standard,RFA +arb,UFA-Group6,2023,2023-24,Matt Keator
+Marc McLaughlin,"$775,000","$775,000",1,0.9%,24,72in,203lbs,C,R,2027,Standard,RFA +arb,RFA +arb,2023,2023-24,Matt Keator
+Scott Reedy,"$775,000","$775,000",1,0.9%,25,74in,214lbs,C,R,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Pat Brisson
+Nicholas Caamano,"$775,000","$775,000",1,0.9%,25,75in,205lbs,LW,L,2026,Standard,RFA +arb,UFA-Group6,2023,2023-24,Robert Hooper
+Dmitri Samorukov,"$775,000","$775,000",1,0.9%,24,75in,187lbs,D,L,2026,Standard,UFA no QO,UFA-Group6,2023,2023-24,Patrick Morris
+Shane Pinto,"$775,000","$775,000",1,0.9%,23,74in,192lbs,C,R,2028,Standard,RFA,RFA +arb,2023,2023-24,Lewis Gross
+Mason Shaw,"$775,000","$775,000",1,0.9%,25,70in,183lbs,C,L,2026,Standard,UFA no QO,RFA +arb,2023,2023-24,Kevin Epp
+Akil Thomas,"$775,000","$775,000",1,0.9%,24,71in,185lbs,C,R,2027,Standard,RFA,RFA +arb,2023,2023-24,Eustace King
+Jett Woo,"$775,000","$775,000",1,0.9%,23,72in,205lbs,D,R,2028,Standard,RFA,RFA +arb,2023,2023-24,Eustace King
+Max Comtois,"$775,000","$775,000",1,0.9%,25,74in,209lbs,LW,L,2026,Standard,UFA no QO,RFA +arb,2023,2023-24,Allain Roy
+Joey Abate,"$775,000","$775,000",1,0.9%,25,74in,187lbs,LW,L,2026,Standard,No Signing Status,RFA +arb,2023,2023-24,No Agent
+Adam Ruzicka,"$762,500","$750,000",2,0.9%,24,76in,216lbs,C,L,2026,Standard,RFA,RFA +arb,2022,2023-24,Craig Oster
+Parker Kelly,"$762,500","$775,000",2,0.9%,24,72in,187lbs,LW,L,2026,Standard,RFA,RFA +arb,2022,2023-24,Allain Roy
+Markus Niemelainen,"$762,500","$775,000",2,0.9%,25,78in,190lbs,D,L,2025,Standard,RFA +arb,UFA-Group6,2022,2023-24,Mark Gandler & Todd Diamond
+Liam Foudy,"$762,500","$775,000",2,0.9%,24,74in,187lbs,C,L,2027,Standard,RFA,RFA +arb,2022,2023-24,Thane Campbell
+Beck Malenstyn,"$762,500","$775,000",2,0.9%,26,74in,194lbs,LW,L,2025,Standard,RFA +arb,RFA +arb,2022,2023-24,J.P. Barry
+Matt Kiersted,"$762,500","$775,000",2,0.9%,26,72in,181lbs,D,L,2025,Standard,RFA,UFA-Group6,2022,2023-24,Neil Sheehy
+Brandon Biro,"$762,500","$775,000",2,0.9%,26,71in,170lbs,LW,L,2025,Standard,RFA +arb,UFA-Group6,2022,2023-24,Allain Roy
+Lucas Johansen,"$762,500","$775,000",2,0.9%,26,74in,183lbs,D,L,2025,Standard,RFA +arb,UFA-Group6,2022,2023-24,Kurt Overhardt
+William Bitten,"$762,500","$775,000",2,0.9%,25,71in,192lbs,RW,R,2026,Standard,RFA +arb,UFA-Group6,2022,2023-24,Serge Payer
+Kyle Capobianco,"$762,500","$775,000",2,0.9%,26,73in,196lbs,D,L,2025,Standard,UFA no QO,UFA-Group6,2022,2023-24,Paul Capizzano
+Jack Studnicka,"$762,500","$775,000",2,0.9%,25,74in,194lbs,C,R,2026,Standard,RFA,RFA +arb,2022,2023-24,Darren Ferris
+Tyce Thompson,"$762,500","$775,000",2,0.9%,24,73in,174lbs,RW,R,2027,Standard,RFA +arb,RFA +arb,2022,2023-24,Jerry Buckley
+Arnaud Durandeau,"$762,500","$775,000",2,0.9%,25,72in,194lbs,LW,L,2026,Standard,RFA,UFA-Group6,2022,2023-24,Paul Corbeil
+Dennis Cholowski,"$762,500","$775,000",2,0.9%,26,74in,209lbs,D,L,2025,Standard,UFA no QO,RFA +arb,2022,2023-24,Allain Roy
+Taylor Raddysh,"$758,333","$775,000",3,0.9%,26,75in,198lbs,RW,R,2025,Standard,RFA,RFA +arb,2021,2023-24,David Gagner
+Boris Katchouk,"$758,333","$775,000",3,0.9%,25,74in,205lbs,LW,L,2025,Standard,RFA,RFA +arb,2021,2023-24,Robert Hooper
