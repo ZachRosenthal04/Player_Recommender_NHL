@@ -2,7 +2,7 @@
 ## Project Title: Finding Comparable NHL Skaters
 This is a content-based recommender system. It takes NHL player data from individual performance totals and rates as well as on-ice performance totals and rates from 3 NHL regular seasons: 2021-22, 2022-23, 2023-24 that has been split into 4 different game states: all strengths (AS), even strength (ES), power play (PP) and penalty kill (PK) and based on the features in the selected game state outputs the 5 players most similar to the player in question.
 The recommender uses a player’s index as its reference point and recommends the desired number of indices most similar to the index selected.
-The unique feature of this recommender are currently twofold. First, since it is divided into different game-states, this recommender offers a more nuanced perspective of a player’s performance than those traditionally considered in contract arbitration such as regular season and playoffs. Secondly, it has the ability to perform comparisons outside of the season of the original input. For example, this recommender engine, using a player’s index from the 2021-2022 season can find similar indices of players in the 2023-24 season or other desired combinations. Something to note is that there are no records for goalies in this engine. A goalie-specific recommender system is something I hope to build in the future. 
+The unique feature of this recommender are currently twofold. First, since it is divided into different game states, this recommender offers a more nuanced perspective of a player’s performance than those traditionally considered in contract arbitration such as regular season and playoffs. Secondly, it has the ability to perform comparisons outside of the season of the original input. For example, this recommender engine, using a player’s index from the 2021-2022 season can find similar indices of players in the 2023-24 season or other desired combinations. Something to note is that there are no records for goalies in this engine. A goalie-specific recommender system is something I hope to build in the future. 
 ## Project Motivation:
 My motivation for this project begins with the simple fact that I am a big hockey fan. Beyond just being a hockey fan, I have always been into sports and have always been really into the amazing stats that are shown on the screen during games that offer such interesting nuances into the game within the game. I’ve always enjoyed the strategy behind building a roster, scouting, and trades. I aimed to build something that could track player development using comparable players in the league. 
 I wanted to build something that was constantly improvable and scalable. This project is endlessly scalable because it can continue to include upcoming seasons as well as past seasons. 
@@ -60,7 +60,7 @@ See these examples for Sidney Crosby and Alex Ovechkin below.
 #### Use:
 ```python
 get_index_all_gamestates('Sidney Crosby')
-get_index_all_gamestates('Alex Ovechkin')
+get_index_all_gamestates('Nick Suzuki')
 ```
 #### Output:
 ```python
@@ -69,10 +69,10 @@ Sidney Crosby's EVEN STRENGTH indices are: {2022: [28], 2023: [1020], 2024: [196
 Sidney Crosby's POWER PLAY indices are: {2022: [28], 2023: [932], 2024: [1794]}
 Sidney Crosby's PENALTY KILL indices are: {2022: [28], 2023: [893], 2024: [1720]}
 
-Alex Ovechkin's ALL STRENGTHS indices are: {2022: [18], 2023: [1013], 2024: [1959]}
-Alex Ovechkin's EVEN STRENGTH indices are: {2022: [18], 2023: [1013], 2024: [1959]}
-Alex Ovechkin's POWER PLAY indices are: {2022: [18], 2023: [925], 2024: [1790]}
-Alex Ovechkin's PENALTY KILL indices are: {2022: [18], 2023: [886], 2024: [1716]}
+Nick Suzuki's ALL STRENGTHS indices are: {2022: [749], 2023: [1643], 2024: [2508]}
+Nick Suzuki's EVEN STRENGTH indices are: {2022: [749], 2023: [1643], 2024: [2508]}
+Nick Suzuki's POWER PLAY indices are: {2022: [695], 2023: [1510], 2024: [2316]}
+Nick Suzuki's PENALTY KILL indices are: {2022: [681], 2023: [1467], 2024: [2224]}
 ```
 
 ### Step 2: *Optional*
