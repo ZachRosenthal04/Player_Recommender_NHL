@@ -134,19 +134,7 @@ recommended_skaters_Nick_Suzuki = recommend_skaters(original_gamestate_df=df_all
                                         top_n=6)
 ```
 The sample output for the Montreal Canadiens' captain Nick Suzuki's 2022 stats for the EVEN STRENGTH game states are:
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
