@@ -29,8 +29,9 @@ The file “EDA_functions.py” is a Python script that contains all the functio
 The recommender uses the pairwise distances of a player’s index with reference to the game-state of a given season and returns the data for the 5 most similar players. The actual recommender is in the Jupyter Notebook called “All_Seasons.ipynb” which was also used to combine the game-states of each season into the data frames used in the recommender engine.
 Steps to run the recommender:
 ### Step 1: Get the player’s index for the desired game state and season.
-To do this, run the function: get_index_all_gamestates(‘player’s full name you want recommended’). 
-```def get_index_all_gamestates(player_name, AS_dict= player_index_dict_AS, ES_dict= player_index_dict_ES, PP_dict= player_index_dict_PP, PK_dict= player_index_dict_PK):
+To do this, run the function: get_index_all_gamestates(‘player’s full name you want recommended’) which looks like this: Remember to adjust the parametrs for the desired game state. 
+```python
+def get_index_all_gamestates(player_name, AS_dict= player_index_dict_AS, ES_dict= player_index_dict_ES, PP_dict= player_index_dict_PP, PK_dict= player_index_dict_PK):
     """
     Returns a string with all the indices for each game state (All Strengths, Even Strength,
     Power Play, and Penalty Kill) for a given player.
@@ -57,11 +58,12 @@ To do this, run the function: get_index_all_gamestates(‘player’s full name y
 The expected output of this function will return a nested dictionary of players' indexes for each season in each of the game state data frames.
 See these examples for Sidney Crosby and Alex Ovechkin below.
 #### Use:
-```get_index_all_gamestates('Sidney Crosby')
+```python
+get_index_all_gamestates('Sidney Crosby')
 get_index_all_gamestates('Alex Ovechkin')
 ```
 #### Output:
-```
+```python
 Sidney Crosby's ALL STRENGTHS indices are: {2022: [28], 2023: [1020], 2024: [1963]}
 Sidney Crosby's EVEN STRENGTH indices are: {2022: [28], 2023: [1020], 2024: [1963]}
 Sidney Crosby's POWER PLAY indices are: {2022: [28], 2023: [932], 2024: [1794]}
@@ -76,7 +78,7 @@ Alex Ovechkin's PENALTY KILL indices are: {2022: [18], 2023: [886], 2024: [1716]
 ### Step 2: *Optional*
 Get the baseline stats for the player and game state you want as the recommender's reference.
 Run the function: get_players_baseline_gamestate_stats.
-```
+```python
 def get_players_baseline_gamestate_stats(original_gamestate_df, player_name):
     baseline_gamestate_stats = original_gamestate_df.loc[original_gamestate_df['Player'] == player_name]
     return baseline_gamestate_stats
@@ -89,10 +91,10 @@ If the player_name is misspelled or there is no data, the function returns an em
 ### Step 3: Finding Similar NHL Players
 Call the function: ```python recommend_skaters() ```
 The function is:
-```
+```python
 def recommend_skaters(original_gamestate_df, processed_gamestate_df, season, player_index, top_n=6):
     """
-    Recommends skaters based on their stats using a preprocessed PCA features.
+    Recommends skaters based on their stats using a preprocessed data frame. See All_Seasons Jupyter Notebook for preprocessing steps.
 
     Args:
     - original_gamestate_df (pd.DataFrame): DataFrame containing the original skater stats.
@@ -124,7 +126,7 @@ def recommend_skaters(original_gamestate_df, processed_gamestate_df, season, pla
 ```
 #### Calling the function:
 Using the appropriate function parameters would looks something like this:
-```
+```python
 recommended_skaters_Nick_Suzuki = recommend_skaters(original_gamestate_df=df_all_stats_ES,
                                         processed_gamestate_df=df_all_stats_ES_encoded_dropped_scaled_pca,
                                         season=2022,
