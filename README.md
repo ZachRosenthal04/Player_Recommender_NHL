@@ -11,7 +11,7 @@ There are two problems I’m trying to solve with this recommender engine. The f
 Salary arbitration is when a third party is needed to determine a fair salary for a player when a player (and their agent) cannot reach an agreement with the team’s offer. Most players opt for arbitration but few end up progressing to an arbitration hearing. That being said, the process is often financially and mentally taxing on the player and team and can sour or destroy the relationship between the players and their team. A key factor in contract negotiations and arbitration hearings is player comparisons which are used in salary benchmarking. This is similar to how house prices are determined by comparisons. This recommender offers a nuanced, data-driven comparison, available to both players and teams which can help teams manage the cap, plan for the future, or avoid lengthy arbitration hearings that can ruin important inter- and intra-team relationships.
 ## Installation:
 The notebooks and recommender us the following libraries and packages:
-```
+```python
 import pandas as pd
 import numpy as np
 
