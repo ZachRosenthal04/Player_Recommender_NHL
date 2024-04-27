@@ -134,6 +134,7 @@ recommended_skaters_Nick_Suzuki = recommend_skaters(original_gamestate_df=df_all
                                         top_n=6)
 ```
 The sample output for the Montreal Canadiens' captain Nick Suzuki's 2022 stats for the EVEN STRENGTH game states are:
+```python
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -1177,7 +1178,7 @@ The sample output for the Montreal Canadiens' captain Nick Suzuki's 2022 stats f
   </tbody>
 </table>
 </div>
-
+```
 
 ## Contributing:
 I encourage others to build on this project, as I will, by continuing to do feature engineering and using additional game state data as well as other seasons. Additionally, this project doesn’t take into account goaltender data and so this is one very clear space for additional contributions.
