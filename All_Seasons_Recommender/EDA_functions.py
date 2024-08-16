@@ -142,6 +142,20 @@ def get_players_baseline_gamestate_stats(original_gamestate_df, player_name):
     baseline_gamestate_stats = original_gamestate_df.loc[original_gamestate_df['Player'] == player_name]
     return baseline_gamestate_stats
 
+def MP_get_players_baseline_gamestate_stats(original_gamestate_df, player_name):
+    """
+    Returns the baseline performance metrics of the player you are finding comparable players of 
+    so you can see how their stats are over the course of the seasons in the engine.
+    Args:
+    - original_gamestate_df (pd.DataFrame): DataFrame containing the original skater stats.
+    - player_name: must be a string of the full name of the player you want to look up, 
+    If player name is misspelled or there is no data for that player, 
+    the function returns an empty dataframe 
+
+    """
+    baseline_gamestate_stats = original_gamestate_df.loc[original_gamestate_df['name'] == player_name]
+    return baseline_gamestate_stats
+
 def recommend_skaters(original_gamestate_df, processed_gamestate_df, season, player_index, top_n=6):
     """
     Recommends skaters based on their stats using a preprocessed PCA features.
@@ -174,5 +188,51 @@ def recommend_skaters(original_gamestate_df, processed_gamestate_df, season, pla
 
     return recommended_skaters
 
+
+def made_playoffs(row):
+    ''' made_playoffs functon creates the 'Playoff_Team' column in each of the game states dataframes using the .apply() method.
+    Future additions would just need to create a variable for the list of playoff teams and then and a new 'elif' line for the most recent season.'''
+    if row['Season'] == 2022 and row['Team'] in playoff_teams_2022:
+        return 1
+    elif row['Season'] == 2023 and row['Team'] in playoff_teams_2023:
+        return 1
+    elif row['Season'] == 2024 and row['Team'] in playoff_teams_2024:
+        return 1
+    else:
+        return 0
+
+def MP_recommend_skaters(original_gamestate_df, processed_gamestate_df, season, player_index, top_n=6):
+    """
+    Recommends skaters based on their stats using a preprocessed PCA features.
+
+    Args:
+    - original_gamestate_df (pd.DataFrame): DataFrame containing the original skater stats.
+        Acceptable inputs for original_gamestate_df are: [MP_AS_stats, MP_5on5_stats, MP_4on5_stats, MP_5on4_stats, MP_OS_stats]
+    - processed_gamestate_df (pd.DataFrame): PCA-transformed and scaled features of the skaters.
+        Acceptable inputs for processed_gamestate_df are: 
+        [MP_AS_processed_data, MP_5on5_processed_data, MP_4on5_processed_data, MP_5on4_processed_data, MP_OS_processed_data]
+    - season (int): The target season for comparison.
+        Acceptable inputs for season are: 2021, 2022, 2023 
+    - player_index (int): Index of the player in the DataFrame to get recommendations for.
+        player_index as accessed through the function: MP_get_index_all_gamestates() 
+    - top_n (int): Number of top recommendations to return.
+
+    Returns:
+    - pd.DataFrame: DataFrame containing the top_n recommended skaters for the given player in the specified season.
+    """
+
+    # Filter DataFrame for the target season
+    target_season_data = processed_gamestate_df[original_gamestate_df['season'] == season]
+
+    # Compute pairwise distances between all skaters and those from the target season
+    distances = pairwise_distances(processed_gamestate_df, target_season_data)
+
+    # Find the indices of the closest skaters
+    indices = np.argsort(distances, axis=1)[:, :top_n]
+
+    # Retrieve the recommendations from the original stats DataFrame
+    MP_recommended_skaters = original_gamestate_df[original_gamestate_df['season'] == season].iloc[indices[player_index], :]
+
+    return MP_recommended_skaters
 
 
