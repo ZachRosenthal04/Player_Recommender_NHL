@@ -27,6 +27,8 @@ import numpy as np
 
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
 from sklearn.decomposition import PCA
 from sklearn.metrics.pairwise import pairwise_distances
 ```
@@ -83,7 +85,8 @@ Nick Suzuki's POWER PLAY indices are: {2022: [695], 2023: [1510], 2024: [2316]}
 Nick Suzuki's PENALTY KILL indices are: {2022: [681], 2023: [1467], 2024: [2224]}
 ```
 ### Step 1-Money Puck: Get the player’s index for the desired game state and season.
-To do this, run the function: MP_get_index_all_gamestates(‘player’s full name you want recommended’) which looks like this: Remember to adjust the parameters for the desired game state. 
+To do this, run the function: MP_get_index_all_gamestates(‘player’s full name you want recommended’) which looks like this: Remember to adjust the parameters for the desired game state.
+```python
 def MP_get_index_all_gamestates(player_name, MP_AS_dict= MP_AS_player_dict, MP_5on5_dict= MP_5on5_player_dict, 
                                 MP_4on5_dict= MP_4on5_player_dict, MP_5on4_dict= MP_5on4_player_dict,
                                 MP_OS_dict= MP_OS_player_dict):
@@ -110,6 +113,7 @@ def MP_get_index_all_gamestates(player_name, MP_AS_dict= MP_AS_player_dict, MP_5
     )
 
     return print(result_string)
+```
 The output will look very similar to the Natural Stattrickl version
 
 ### Step 2 - Natural Stattrick *Optional*
