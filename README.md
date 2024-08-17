@@ -114,7 +114,7 @@ def MP_get_index_all_gamestates(player_name, MP_AS_dict= MP_AS_player_dict, MP_5
 
     return print(result_string)
 ```
-The output will look very similar to the Natural Stattrickl version
+The output will look very similar to the Natural Stattrick version
 
 ### Step 2 - Natural Stattrick *Optional*
 Get the baseline stats for the player and game state you want as the recommender's reference.
